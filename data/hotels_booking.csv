@@ -1,0 +1,680 @@
+city_id,city,hotel_name,url,lat,lon,score,reviews,description,hotel_id
+2,St Malo,Solidor - Vue mer à 1 minute de la plage !,https://www.booking.com/hotel/fr/solidor-vue-mer-a-1-minute-de-la-plage.fr.html.html,48.6444996047539,-2.0114206149642406,7.9,40.0,,1
+2,St Malo,"Logement entier Saint Malo vue mer, proche FERRY, commerces et plage Solidor 50 m",https://www.booking.com/hotel/fr/saint-malo-solidor-vue-mer.fr.html.html,48.6675465722564,-2.013358017162029,7.8,106.0,,2
+2,St Malo,ST Malo Bel appartement plain -pied 300 m gare prés plage du sillon intramuros,https://www.booking.com/hotel/fr/st-malo-bel-appartement-pres-gare-plage-intramuros.fr.html.html,48.65879775767246,-2.0357247869182022,9.0,1.0,,3
+2,St Malo,Le Balcon de la Conchée,https://www.booking.com/hotel/fr/le-balcon-de-la-conchee.fr.html.html,48.65346433936788,-2.0392053965043972,,,,4
+2,St Malo,Appartement - ccbedif,https://www.booking.com/hotel/fr/appartement-ccbedif.fr.html.html,48.6357587456177,-2.0192951712030225,,,,5
+2,St Malo,jolie logement centre ville avec parking quartier gare,https://www.booking.com/hotel/fr/jolie-logement-centre-ville-avec-parking-quartier-gare.fr.html.html,48.63575778081345,-2.0088658604348963,,,,6
+2,St Malo,La parenthèse Malouine - terrasse - plage & gare à 15 min à pieds,https://www.booking.com/hotel/fr/la-parenthese-malouine-terrasse-plage-amp-gare-a-15-min-a-pieds.fr.html.html,48.63184134448673,-2.023770384279443,,,,7
+2,St Malo,Calm and Cosy,https://www.booking.com/hotel/fr/calm-and-cosy-saint-malo.fr.html.html,48.664165045831,-2.023176392421204,8.9,114.0,,8
+2,St Malo,La Forbannerie - Villa familiale vue mer,https://www.booking.com/hotel/fr/la-forbannerie-villa-familiale-vue-mer.fr.html.html,48.653562600469726,-2.0348417362535884,,,,9
+2,St Malo,Surcouf in Saint-Malo,https://www.booking.com/hotel/fr/surcouf-in-saint-malo-saint-malo.fr.html.html,48.65784090311184,-2.0152611826723223,,,,10
+2,St Malo,Apartment Pomellec by Interhome,https://www.booking.com/hotel/fr/apartment-pomellec-by-interhome.fr.html.html,48.630341379771835,-2.038559150057699,,,,11
+2,St Malo,Ker MHAG,https://www.booking.com/hotel/fr/ker-mhag.fr.html.html,48.66831439408648,-2.0330937305438304,,,,12
+2,St Malo,Douce Escale - Avec terrasse proche gare de St Malo,https://www.booking.com/hotel/fr/douce-escale-avec-terrasse-proche-gare-de-st-malo.fr.html.html,48.66281570563202,-2.029023442455343,,,,13
+2,St Malo,Exceptionnelle vue front de mer avec accès direct plage,https://www.booking.com/hotel/fr/exceptional-sea-view-direct-access-to-beaches.fr.html.html,48.63801156442713,-2.025736484852622,,,,14
+2,St Malo,Saint Malo Solidor Brécel 2,https://www.booking.com/hotel/fr/saint-malo-solidor-brecel-2.fr.html.html,48.636790998688284,-2.0363445107033966,,,,15
+2,St Malo,ST Malo Maison plain pied jardin prés gare plagedu sillon chien admis fibre,https://www.booking.com/hotel/fr/st-malo-maison-plain-pied-jardin-pres-gare-plagedu-sillon-chien-admis-fibre.fr.html.html,48.63685418039414,-2.0414474270104317,5.0,1.0,,16
+2,St Malo,Le Cœur d'une Villa Malouine,https://www.booking.com/hotel/fr/le-coeur-dune-villa-malouine.fr.html.html,48.64168768971838,-2.0216160983023346,,,,17
+2,St Malo,Appartement avec jardin - primerose,https://www.booking.com/hotel/fr/appartement-avec-jardin-primerose.fr.html.html,48.65050825726529,-2.0344956778703898,9.4,5.0,,18
+2,St Malo,Le Refuge de l'Emeraude,https://www.booking.com/hotel/fr/le-refuge-de-l-emeraude.fr.html.html,48.646795800745686,-2.0227913711430956,9.0,1.0,,19
+2,St Malo,"Le quatuor Malouin, appartement cosy proche gare",https://www.booking.com/hotel/fr/le-quatuor-malouin-appartement-cosy-proche-gare.fr.html.html,48.641167165607925,-2.039866391389032,10.0,2.0,,20
+3,Bayeux,"maison individuelle, familiale et spacieuse",https://www.booking.com/hotel/fr/maison-individuelle-familiale-et-spacieuse.fr.html.html,49.280936515788895,-0.7032281959258073,,,,21
+3,Bayeux,L'Appart Bayeux,https://www.booking.com/hotel/fr/appart-bayeux-bayeux.fr.html.html,49.262042154426084,-0.7011702226979366,,,,22
+3,Bayeux,Villa Normande grande maison avec parking privé,https://www.booking.com/hotel/fr/villa-normande-large-house-with-private-parking.fr.html.html,49.268148185941406,-0.720400858527103,10.0,1.0,,23
+3,Bayeux,Le Monastère,https://www.booking.com/hotel/fr/le-monastere-bayeux.fr.html.html,49.27111687373175,-0.7090096288722432,8.2,62.0,,24
+3,Bayeux,Duplex house with small terrace,https://www.booking.com/hotel/fr/duplex-house-with-small-terrace.fr.html.html,49.27470519936868,-0.7170972129224411,,,,25
+3,Bayeux,La Capucine,https://www.booking.com/hotel/fr/la-capucine-bayeux.fr.html.html,49.28786943845572,-0.7199388011810893,,,,26
+3,Bayeux,Le Duplex appartement proche de la Cathédrale,https://www.booking.com/hotel/fr/le-duplex-appartement-proche-cathedrale.fr.html.html,49.26444935128633,-0.6828753907044022,,,,27
+3,Bayeux,La Pause Normande - Bed & Breakfast,https://www.booking.com/hotel/fr/la-pause-normande-bed-amp-breakfast.fr.html.html,49.27703177753654,-0.7095796462010111,,,,28
+3,Bayeux,Rive Gauche,https://www.booking.com/hotel/fr/rive-gauche-bayeux.fr.html.html,49.28015898275448,-0.6900788221658146,,,,29
+3,Bayeux,Casa Vacanze,https://www.booking.com/hotel/fr/casa-vacanze-bayeux.fr.html.html,49.2583204165088,-0.7122881738094495,,,,30
+3,Bayeux,Duplex centre historique de Bayeux,https://www.booking.com/hotel/fr/duplex-centre-historique-de-bayeux-bayeux.fr.html.html,49.280764194076056,-0.6952136911110429,8.3,3.0,,31
+3,Bayeux,Le Mesnil,https://www.booking.com/hotel/fr/le-mesnil-bayeux.fr.html.html,49.26328336494749,-0.6920646856044126,9.0,1.0,,32
+3,Bayeux,Le Royal,https://www.booking.com/hotel/fr/le-royal-bayeux.fr.html.html,49.25906446371941,-0.6986482503756862,,,,33
+3,Bayeux,La tête dans les étoiles,https://www.booking.com/hotel/fr/la-tete-dans-les-etoiles-bayeux1.fr.html.html,49.294417821490136,-0.7036107524579936,,,,34
+3,Bayeux,Le Clos des Marmuzots parking & jardin,https://www.booking.com/hotel/fr/le-clos-des-marmuzots.fr.html.html,49.29508768132298,-0.7060001634341093,9.7,10.0,,35
+3,Bayeux,Cottage in Central Bayeux,https://www.booking.com/hotel/fr/cottage-in-central-bayeux.fr.html.html,49.28879829392466,-0.7085190693382802,,,,36
+3,Bayeux,Les Hirondelles,https://www.booking.com/hotel/fr/les-hirondelles-bayeux.fr.html.html,49.268646950766936,-0.685292634230087,10.0,1.0,,37
+3,Bayeux,LEPTILOFT BAYEUX Centre,https://www.booking.com/hotel/fr/leptiloft-bayeux-centre.fr.html.html,49.260369284560255,-0.6892490236884908,9.7,12.0,,38
+3,Bayeux,Chez Max,https://www.booking.com/hotel/fr/le-saint-pat.fr.html.html,49.28383172106049,-0.6838727235733395,9.5,28.0,,39
+3,Bayeux,Bayeux garden,https://www.booking.com/hotel/fr/bayeux-garden.fr.html.html,49.27406849974958,-0.7175019110605783,9.1,31.0,,40
+4,Le Havre,"2 pièces ""Les Nuits Douces"" - Calme et Lumineux - Gare à 10 min - Tram à 3 min",https://www.booking.com/hotel/fr/2-pieces-renove-15-mn-a-pied-gare-calme-en-dernier-etage-wifi-thd-coin-bureau.fr.html.html,49.47877902939379,0.11720789900814578,8.7,4.0,,41
+4,Le Havre,F1 Cosy 1,https://www.booking.com/hotel/fr/f1-cosy-1-le-havre.fr.html.html,49.493704576404454,0.12550681827284152,,,,42
+4,Le Havre,"Studio Centre, Calme proche gare et plage",https://www.booking.com/hotel/fr/studio-centre-calme-proche-gare-et-plage.fr.html.html,49.47527304084461,0.09522252264662641,,,,43
+4,Le Havre,Comfortable apartment Rue Gustave Brindeau,https://www.booking.com/hotel/fr/comfortable-apartment-rue-gustave-brindeau.fr.html.html,49.51027031608315,0.0906330506946711,,,,44
+4,Le Havre,La parenthèse 70's,https://www.booking.com/hotel/fr/la-parenthese-70s.fr.html.html,49.484248699264,0.11761802597160237,,,,45
+4,Le Havre,Peaceful haven with sea view comfort and charm,https://www.booking.com/hotel/fr/peaceful-haven-with-sea-view-comfort-and-charm.fr.html.html,49.50039839137416,0.11095212452719648,10.0,1.0,,46
+4,Le Havre,Mon Petit Paradis - Université - Gare,https://www.booking.com/hotel/fr/my-little-paradise-university-train-station.fr.html.html,49.48636594304358,0.1216463510703309,,,,47
+4,Le Havre,Dalikyda - Le Petit Lemaistre - Downtown - Wifi,https://www.booking.com/hotel/fr/dalikyda-le-petit-lemaistre-downtown-wifi.fr.html.html,49.494700220847115,0.09356409506505159,,,,48
+4,Le Havre,Lazri,https://www.booking.com/hotel/fr/lazri.fr.html.html,49.495765911173734,0.11978389247439561,10.0,1.0,,49
+4,Le Havre,Le nouveau 4 chemins - St Vincent,https://www.booking.com/hotel/fr/le-nouveau-4-chemins-st-vincent.fr.html.html,49.48129167822103,0.09603829280190979,,,,50
+4,Le Havre,Le 1920- Spa & Sauna privé- Love Room,https://www.booking.com/hotel/fr/le-1920-lh.fr.html.html,49.51268088511058,0.09451943771462819,10.0,1.0,,51
+4,Le Havre,"T2 lumineux avec balcon, parking - Centre-ville Mer",https://www.booking.com/hotel/fr/t2-lumineux-avec-balcon-parking-centre-ville-mer.fr.html.html,49.504902812934446,0.09454383191723972,,,,52
+4,Le Havre,L'Escapade Havraise,https://www.booking.com/hotel/fr/escapade-havraise-le-havre.fr.html.html,49.51147745766257,0.1205561888092553,8.0,2.0,,53
+4,Le Havre,ST FRANÇOIS historique,https://www.booking.com/hotel/fr/st-francois-historique.fr.html.html,49.50969059401711,0.11458108882784801,,,,54
+4,Le Havre,Spacious T3 centre ville Coty,https://www.booking.com/hotel/fr/spacious-t3-centre-ville-coty.fr.html.html,49.49781349915244,0.10889581699076478,10.0,1.0,,55
+4,Le Havre,Dalikyda Lolivier Familiale 300m de la gare,https://www.booking.com/hotel/fr/dalikyda-lolivier-familiale-300m-de-la-gare.fr.html.html,49.510772469400926,0.10232641936494011,10.0,2.0,,56
+4,Le Havre,Le petit Jenner - Studio 2 pers,https://www.booking.com/hotel/fr/le-petit-jenner-studio-2-pers.fr.html.html,49.47743720008208,0.12306122163252434,,,,57
+4,Le Havre,Le Jenner - Magnifique appartement - 1 Ch - Balcon,https://www.booking.com/hotel/fr/le-jenner-magnifique-appartement-1-ch-balcon.fr.html.html,49.48173681449677,0.10367100429690543,,,,58
+4,Le Havre,Studio lumineux centre ville,https://www.booking.com/hotel/fr/studio-lumineux-centre-ville-le-havre.fr.html.html,49.475706591556424,0.1206371775788631,10.0,7.0,,59
+4,Le Havre,Dalikyda - Le QG des Héros- stationnement Gratuit,https://www.booking.com/hotel/fr/dalikyda-le-qg-des-heros-stationnement-gratuit.fr.html.html,49.486910713230536,0.10553859634280874,10.0,2.0,,60
+5,Rouen,Studio dans un manoir à Rouen,https://www.booking.com/hotel/fr/le-janou-rouen.fr.html.html,49.43600619158758,1.0890435771769964,8.0,4.0,,61
+5,Rouen,Le 202 studio rénové au coeur de Rouen,https://www.booking.com/hotel/fr/le-202-studio-renove-au-coeur-de-rouen.fr.html.html,49.431313061270956,1.0924729914267843,,,,62
+5,Rouen,Le City Break - Colocation - Centre Ville,https://www.booking.com/hotel/fr/le-city-break-colocation-centre-ville.fr.html.html,49.453608600366074,1.0860209149665658,,,,63
+5,Rouen,Petit cocon pour 2 au coeur de Rouen - Proche gare,https://www.booking.com/hotel/fr/petit-cocon-pour-2-au-coeur-de-rouen-proche-gare.fr.html.html,49.43472923306774,1.10387017520705,,,,64
+5,Rouen,Charmant T2 cosy et lumineux - 284,https://www.booking.com/hotel/fr/charmant-t2-cosy-et-lumineux-284.fr.html.html,49.431696480387494,1.0940746156036993,,,,65
+5,Rouen,Le Secret De Bali - Évasion en centre-ville,https://www.booking.com/hotel/fr/le-secret-de-bali-evasion-en-centre-ville.fr.html.html,49.44216694332633,1.0832543078058727,,,,66
+5,Rouen,Studio en hyper center de Rouen,https://www.booking.com/hotel/fr/studio-en-hyper-center-de-rouen.fr.html.html,49.42609606899899,1.1099487829309829,,,,67
+5,Rouen,Studio Cosy Proche Gare Rouen Rive Droite,https://www.booking.com/hotel/fr/studio-cosy-proche-gare-rouen-rive-droite.fr.html.html,49.452546979230156,1.0893214488549285,,,,68
+5,Rouen,Studio indépendant proche gare,https://www.booking.com/hotel/fr/studio-independant-proche-gare-rouen.fr.html.html,49.42344112574719,1.0957079144445596,10.0,1.0,,69
+5,Rouen,Déesse studio tout confort,https://www.booking.com/hotel/fr/deesse-studio-tout-confort.fr.html.html,49.45993457746402,1.110224684438582,,,,70
+5,Rouen,Agathe vue style et parking,https://www.booking.com/hotel/fr/agathe-vue-style-et-parking.fr.html.html,49.45134889077186,1.0989353198365597,,,,71
+5,Rouen,Bérénice vue préfecture tout confort,https://www.booking.com/hotel/fr/berenice-vue-prefecture-tout-confort.fr.html.html,49.428407727261366,1.0786417216283346,,,,72
+5,Rouen,Capucine élégance et confort,https://www.booking.com/hotel/fr/capucine-elegance-et-confort.fr.html.html,49.420679984684945,1.1115590849445391,,,,73
+5,Rouen,Le Clocher - 1 Chambre - Wifi,https://www.booking.com/hotel/fr/le-clocher-1-chambre-wifi.fr.html.html,49.453077557138194,1.0990741221228568,,,,74
+5,Rouen,Eleonore élégance calme confort et parking,https://www.booking.com/hotel/fr/eleonore-elegance-calme-confort-et-parking.fr.html.html,49.448733393753905,1.0873620245862836,,,,75
+5,Rouen,Le New Town - Balcon - Hypercentre - Tram,https://www.booking.com/hotel/fr/le-new-town-balcon-hypercentre-tram.fr.html.html,49.449619386721636,1.0795366829065356,,,,76
+5,Rouen,50 Nuances Balinaises Secrets d'Adultes,https://www.booking.com/hotel/fr/50-nuances-balinaises-secrets-d-adultes.fr.html.html,49.45130991386743,1.105726807570812,,,,77
+5,Rouen,Le Petit Clocher - 2 prs - Hyper Centre,https://www.booking.com/hotel/fr/le-petit-clocher-2-prs-centre-ville.fr.html.html,49.42342088606936,1.0987687102371406,,,,78
+5,Rouen,Évasion avec vue panoramique sur Rouen - 424,https://www.booking.com/hotel/fr/evasion-avec-vue-panoramique-sur-rouen.fr.html.html,49.43479772914177,1.095304243679053,,,,79
+5,Rouen,L'appart hôtel Linge et ménage inclus Gare Centre,https://www.booking.com/hotel/fr/appart-linge-et-menage-inclus-gare-centre-rouen.fr.html.html,49.425093862381004,1.1097215033220384,,,,80
+6,Paris,Inter-Résidences auprés Multirésidence de l'Elysée,https://www.booking.com/hotel/fr/inter-residences-rue-du-colysee-paris.fr.html.html,48.86801923703503,2.359935388448981,9.2,17.0,,81
+6,Paris,"Marais-Studio, rue Simon le Franc - 3 places",https://www.booking.com/hotel/fr/studio-pompidou-3-places.fr.html.html,48.858427025073105,2.33445849518931,9.1,39.0,,82
+6,Paris,Le Montclair Montmartre by River,https://www.booking.com/hotel/fr/le-montclair-montmartre.fr.html.html,48.846731020994106,2.340860382711822,6.1,457.0,,83
+6,Paris,Appartement Amavel - Welkeys,https://www.booking.com/hotel/fr/nice-flat-in-the-11th-district-of-paris-welkeys.fr.html.html,48.836037434011445,2.3383310655925786,7.0,3.0,,84
+6,Paris,Apartment Louvre,https://www.booking.com/hotel/fr/apartment-louvre-paris1.fr.html.html,48.84593439286863,2.358149351702907,7.6,54.0,,85
+6,Paris,Hôtel Marais Hôme,https://www.booking.com/hotel/fr/ha-marais.fr.html.html,48.846502432881074,2.3297327973894313,8.4,426.0,,86
+6,Paris,La Tour - Studio Trocadero,https://www.booking.com/hotel/fr/la-tour-studio-trocadero.fr.html.html,48.86267934713353,2.3511870873948526,9.0,4.0,,87
+6,Paris,Eiffel Tower Magnificent Paris,https://www.booking.com/hotel/fr/magnificent-apartment-center-paris.fr.html.html,48.858997398854214,2.3588898474296274,8.3,34.0,,88
+6,Paris,Stunning apartment with balcony to visit Paris,https://www.booking.com/hotel/fr/stunning-appartement-with-balcony-to-visit-paris.fr.html.html,48.86898360970306,2.3634621254704697,9.1,30.0,,89
+6,Paris,Studio proche de la Seine,https://www.booking.com/hotel/fr/studio-proche-de-la-seine.fr.html.html,48.85238369700648,2.342074769948636,8.6,6.0,,90
+6,Paris,Suite Gustave - Splendide vue sur Tour Eiffel,https://www.booking.com/hotel/fr/suite-gustave-splendide-vue-sur-tour-eiffel.fr.html.html,48.83827886983754,2.3612417921868807,10.0,1.0,,91
+6,Paris,Le Bohème - Centre de Paris - Belle vue - Wifi,https://www.booking.com/hotel/fr/le-boheme-centre-de-paris-belle-vue-wifi.fr.html.html,48.86202489148892,2.332816769478208,6.3,3.0,,92
+6,Paris,Cosy appartement in the heart of Paris,https://www.booking.com/hotel/fr/cosy-appartement-in-the-heart-of-paris-paris1.fr.html.html,48.86392650194468,2.362249591669381,5.7,17.0,,93
+6,Paris,Charming pied-à-terre near Sacré Coeur,https://www.booking.com/hotel/fr/charming-pied-a-terre-near-sacre-coeur.fr.html.html,48.85594618790278,2.3334910464932794,,,,94
+6,Paris,Moderne Paris Centre 2 chambres,https://www.booking.com/hotel/fr/le-marais-moderne-2-chambres-paris.fr.html.html,48.864333787198184,2.3442829916224146,7.5,2.0,,95
+6,Paris,Paris 9e Super Loft,https://www.booking.com/hotel/fr/paris-9e-super-loft.fr.html.html,48.85324692385458,2.360283314631182,7.2,11.0,,96
+6,Paris,CENTRE PARIS Maubert Notre Dame Beau Studio calme lumineux salle de bains ascenseur climatisation,https://www.booking.com/hotel/fr/centre-paris-maubert-notre-dame-joli-studio-tout-equipe-salle-de-bains-ascenseur.fr.html.html,48.85440441317528,2.334388197093951,4.3,7.0,,97
+6,Paris,Eiffel Tower Accommodation Design,https://www.booking.com/hotel/fr/cosy-flat-victor-hugo.fr.html.html,48.850596740734346,2.3375615558093057,2.8,5.0,,98
+6,Paris,Le Charme Alsacien,https://www.booking.com/hotel/fr/le-charme-alsacien.fr.html.html,48.834511865069764,2.3572816027357226,,,,99
+7,Amiens,Duplex moderne et lumineux,https://www.booking.com/hotel/fr/duplex-moderne-et-lumineux.fr.html.html,49.87848645707973,2.304496561461843,,,,100
+7,Amiens,Le Saint-Honore - T2 Terrasse au Calme,https://www.booking.com/hotel/fr/le-saint-honore-t2-terrasse-au-calme.fr.html.html,49.87542796742747,2.301341005315412,,,,101
+7,Amiens,"Sous les toits des Jacobins, 3 chambres, WiFi",https://www.booking.com/hotel/fr/sous-les-toits-des-jacobins-3-chambres-wifi.fr.html.html,49.89962721645055,2.303453037778684,,,,102
+7,Amiens,Le Roosvelt,https://www.booking.com/hotel/fr/le-roosvelt.fr.html.html,49.88674503924305,2.297404077733904,,,,103
+7,Amiens,Cosy Bora Bora-Confort pour 4 personnes à Amiens,https://www.booking.com/hotel/fr/cosy-bora-bora-confort-pour-4-personnes-a-amiens.fr.html.html,49.89451362764659,2.2857670623562782,,,,104
+7,Amiens,L'Étage Amiénois - Centre ville,https://www.booking.com/hotel/fr/etage-amienois-centre-ville.fr.html.html,49.91047345895704,2.289522939740157,,,,105
+7,Amiens,Amazonie - Évasion Urbaine & Parking Privé,https://www.booking.com/hotel/fr/amazonie-evasion-urbaine-amp-parking-prive.fr.html.html,49.88414248916595,2.2829590086720573,,,,106
+7,Amiens,Refuge des intimes - Spa & Sauna en Cave,https://www.booking.com/hotel/fr/refuge-des-intimes-spa-amp-sauna-en-cave.fr.html.html,49.890586116921426,2.3120331224533452,,,,107
+7,Amiens,Amazonia - Élégance & Confort en Hyper Centre,https://www.booking.com/hotel/fr/amazonia-elegance-amp-confort-en-hyper-centre.fr.html.html,49.90439284554172,2.299030771790645,,,,108
+7,Amiens,La très grande Amiénoise de Gabriel,https://www.booking.com/hotel/fr/la-tres-grande-amienoise-de-gabriel.fr.html.html,49.88332272661966,2.2917291566705456,,,,109
+7,Amiens,Vue Toits d Amiens Sauna & Cinéma Balcon Parking,https://www.booking.com/hotel/fr/vue-toits-d-amiens-sauna-amp-cinema-balcon-parking.fr.html.html,49.87724999639315,2.294175332145765,,,,110
+7,Amiens,La Maison Ridoux - Spa Centre 8 min Cathedrale,https://www.booking.com/hotel/fr/la-maison-ridoux-spa-centre-8-min-cathedrale.fr.html.html,49.88576085811655,2.3135864335844727,,,,111
+7,Amiens,Le Rouge & Historique - Cathédrale Amiens,https://www.booking.com/hotel/fr/le-rouge-amp-historique-cathedrale-amiens.fr.html.html,49.88061965149016,2.281829156124643,7.0,1.0,,112
+7,Amiens,"La Maison Amiénoise de Léon, garden, wifi",https://www.booking.com/hotel/fr/la-maison-amienoise-de-leon-garden-wifi.fr.html.html,49.9113587060937,2.299144293280672,10.0,2.0,,113
+7,Amiens,Studio moderne Amiens,https://www.booking.com/hotel/fr/studio-moderne-amiens.fr.html.html,49.90649561518257,2.295930647155379,7.5,2.0,,114
+7,Amiens,Studio lumineux Amiens,https://www.booking.com/hotel/fr/studio-lumineux-amiens.fr.html.html,49.89950695026042,2.300153269417386,,,,115
+7,Amiens,Le Séjour XXL - Cathédrale Amiens,https://www.booking.com/hotel/fr/le-sejour-xxl-cathedrale-amiens.fr.html.html,49.909029223607504,2.2764195073528337,8.0,1.0,,116
+7,Amiens,La Terrasse en Ville - Cathédrale Amiens,https://www.booking.com/hotel/fr/la-terrasse-en-ville-cathedrale-amiens.fr.html.html,49.90631768307596,2.3105800563577663,9.0,1.0,,117
+7,Amiens,Calme & Confort,https://www.booking.com/hotel/fr/calme-amp-confort.fr.html.html,49.881633602355436,2.312979831299345,,,,118
+7,Amiens,Le Doux Séjour - Cathédrale Amiens,https://www.booking.com/hotel/fr/le-doux-sejour-cathedrale-amiens.fr.html.html,49.90987315993959,2.2983004273435683,7.0,1.0,,119
+8,Lille,Charmant appartement Cosy Lille,https://www.booking.com/hotel/fr/charmant-appartement-cosy-lille.fr.html.html,50.63813908967663,3.0713942329550754,,,,120
+8,Lille,Studio Unakite,https://www.booking.com/hotel/fr/studio-unakite.fr.html.html,50.64886300620656,3.080428175247092,,,,121
+8,Lille,Studio Selenite,https://www.booking.com/hotel/fr/studio-selenite.fr.html.html,50.65240905199694,3.071817745372536,,,,122
+8,Lille,Studio Quartzo,https://www.booking.com/hotel/fr/studio-quartzo.fr.html.html,50.62928553899888,3.04962976171657,,,,123
+8,Lille,Studio Mookaite,https://www.booking.com/hotel/fr/studio-mookaite.fr.html.html,50.62096747698111,3.0665797344066723,,,,124
+8,Lille,Studio Sodalite,https://www.booking.com/hotel/fr/studio-sodalite.fr.html.html,50.62568280650168,3.067796801855314,8.0,1.0,,125
+8,Lille,Studio Jade,https://www.booking.com/hotel/fr/studio-jade.fr.html.html,50.633649711545054,3.0604934268520956,,,,126
+8,Lille,Old Lille - Lovely typical apartment!,https://www.booking.com/hotel/fr/old-lille-lovely-typical-apartment-lille.fr.html.html,50.649285990636905,3.072985969424989,8.2,45.0,,127
+8,Lille,Studio Ametista,https://www.booking.com/hotel/fr/studio-ametista.fr.html.html,50.650994623330256,3.0809028805907603,,,,128
+8,Lille,Studio Opale,https://www.booking.com/hotel/fr/le-studio-jade.fr.html.html,50.61684348522125,3.0805509405162708,10.0,1.0,,129
+8,Lille,A Cozy Nest - Modern Studio Perfect for Two,https://www.booking.com/hotel/fr/a-cozy-nest-modern-studio-perfect-for-two.fr.html.html,50.6369952921031,3.061561774856165,,,,130
+8,Lille,Cozy urban cocoon with mezzanine Fives metro,https://www.booking.com/hotel/fr/cozy-urban-cocoon-with-mezzanine-fives-metro.fr.html.html,50.633261840125954,3.04805772183363,,,,131
+8,Lille,Appartement calme à 2 pas d Euratechnologies,https://www.booking.com/hotel/fr/appartement-calme-a-2-pas-d-euratechnologies.fr.html.html,50.625449712418835,3.0829218479584934,,,,132
+8,Lille,Studio des Bois - Welkeys,https://www.booking.com/hotel/fr/studio-des-bois-welkeys.fr.html.html,50.62136001469335,3.0770841234578374,,,,133
+8,Lille,Daisy-Gares Grd Palais Zenith&Centre a Deux Pas,https://www.booking.com/hotel/fr/daisy-gares-grd-palais-zenith-centre-a-deux-pas.fr.html.html,50.630070006856144,3.0485147072481307,,,,134
+8,Lille,Lilly-Tout a pied proche gares Grd Palais&Centre,https://www.booking.com/hotel/fr/lilly-tout-a-pied-proche-gares-grd-palais-centre.fr.html.html,50.6542817881565,3.080361875304695,7.0,1.0,,135
+8,Lille,Jasmine-Proche gare Grd Palais Zenith&Centre,https://www.booking.com/hotel/fr/jasmine-proche-gare-grd-palais-zenith-centre.fr.html.html,50.629493517280835,3.078324054482485,,,,136
+8,Lille,Poppy-Idealement situe Entre gare GdPalais&Centre,https://www.booking.com/hotel/fr/poppy-idealement-situe-entre-gare-gdpalais-centre.fr.html.html,50.63731702486974,3.0642817222850427,,,,137
+8,Lille,Appartement terrasse WIFI Chaines cablées 4 pers fac de droit Lille Moulins,https://www.booking.com/hotel/fr/appartement-terrasse-fac-de-droit-lille-moulins.fr.html.html,50.64468615835581,3.067179217429797,3.5,4.0,,138
+8,Lille,One-bedroom duplex Opéra Grand-Place,https://www.booking.com/hotel/fr/one-bedroom-duplex-opera-grand-place.fr.html.html,50.631110584095175,3.059488308154805,7.0,1.0,,139
+9,Strasbourg,Élégance - Strasbourg,https://www.booking.com/hotel/fr/elegance-strasbourg.fr.html.html,48.60348528330884,7.732903165552882,8.5,91.0,,140
+9,Strasbourg,Le Bain Finkwiller - Parking inclus,https://www.booking.com/hotel/fr/le-bain-finkwiller-parking-inclus.fr.html.html,48.60311189179769,7.744120589665836,,,,141
+9,Strasbourg,La maisonnette alsacienne d'Hélène et Guillaume,https://www.booking.com/hotel/fr/la-maisonnette-alsacienne-d-helene-et-guillaume.fr.html.html,48.57468529183301,7.762826837943921,,,,142
+9,Strasbourg,Le Nostalgique,https://www.booking.com/hotel/fr/le-nostalgique-strasbourg.fr.html.html,48.5845039402357,7.730897980920185,,,,143
+9,Strasbourg,Le Floréal - Netflix I CENTRE -VILLE I 2 Min Allemagne,https://www.booking.com/hotel/fr/le-floreal-netflix-i-centre-ville-i-2-min-allemagne.fr.html.html,48.576649132392674,7.744052666867646,,,,144
+9,Strasbourg,Le 52 Zix - Joli studio au cœur de la Petite France,https://www.booking.com/hotel/fr/52-fosse-des-tanneurs-joli-studio-au-coeur-de-la-petite-france.fr.html.html,48.5760076197751,7.746639447743638,7.6,46.0,,145
+9,Strasbourg,Chambres Strasbourg,https://www.booking.com/hotel/fr/chambres-strasbourg.fr.html.html,48.56608947789418,7.752208524117517,,,,146
+9,Strasbourg,Suite Cathédrale Héritage,https://www.booking.com/hotel/fr/suite-cathedrale-heritage.fr.html.html,48.588996573359196,7.7675069246565105,,,,147
+9,Strasbourg,L'Aloïse - Strasbourg Neudorf - Cozy & Moderne - Proche Transports & Commerces,https://www.booking.com/hotel/fr/cosy-neudorf-apartment-strasbourg.fr.html.html,48.584721160929156,7.744566539774639,,,,148
+9,Strasbourg,Le Cocon Strasbourgeois,https://www.booking.com/hotel/fr/le-cocon-strasbourgeois-strasbourg2.fr.html.html,48.56667315005,7.744590828075849,7.0,4.0,,149
+9,Strasbourg,The Glowing Nest,https://www.booking.com/hotel/fr/the-bright-nest.fr.html.html,48.57575985856947,7.76021274992439,,,,150
+9,Strasbourg,urban station strasbourg centre,https://www.booking.com/hotel/fr/urban-station-strasbourg-centre.fr.html.html,48.600944635438665,7.748801417635592,,,,151
+9,Strasbourg,Les Suites,https://www.booking.com/hotel/fr/les-suites-strasbourg.fr.html.html,48.57419647562668,7.7396968929176,,,,152
+9,Strasbourg,Renovated charming appartment,https://www.booking.com/hotel/fr/renovated-charming-appartment.fr.html.html,48.57040979488365,7.748810280645308,,,,153
+9,Strasbourg,La paix,https://www.booking.com/hotel/fr/la-paix-strasbourg.fr.html.html,48.5841921104111,7.736346980815192,8.5,4.0,,154
+9,Strasbourg,Écurie Cathédrale de Strasbourg,https://www.booking.com/hotel/fr/ecurie-cathedrale-de-strasbourg.fr.html.html,48.604040018164426,7.737768179460249,7.0,4.0,,155
+9,Strasbourg,Oberlin luxueux appartement,https://www.booking.com/hotel/fr/oberlin-luxueux-appartement.fr.html.html,48.57429621086046,7.750647410909579,,,,156
+9,Strasbourg,Romains Comfort Apartement,https://www.booking.com/hotel/fr/romains-comfort-apartement.fr.html.html,48.59149942189624,7.747469717980183,10.0,1.0,,157
+9,Strasbourg,Charmant cocon à Strasbourg,https://www.booking.com/hotel/fr/charming-cocoon-a-strasbourg.fr.html.html,48.59507878461315,7.7673065360427245,7.7,3.0,,158
+9,Strasbourg,Le Kampmann Appartement spacieux à Strasbourg,https://www.booking.com/hotel/fr/spacious-apartment-for-a-stay-in-strasbourg.fr.html.html,48.5741195017597,7.745208455964666,,,,159
+10,Chateau du Haut Koenigsbourg,Au pied du Château,https://www.booking.com/hotel/fr/au-pied-du-chateau-orschwiller.fr.html.html,48.25851065394447,7.3471647340111215,10.0,4.0,,160
+10,Chateau du Haut Koenigsbourg,La forêt Enchantée - Cozy Immo,https://www.booking.com/hotel/fr/la-foret-enchantee-cozy-immo.fr.html.html,48.24409332530877,7.349231771516781,9.2,42.0,,161
+10,Chateau du Haut Koenigsbourg,Domaine du Haut-Koenigsbourg,https://www.booking.com/hotel/fr/les-chambres-du-haut-koenigsbourg.fr.html.html,48.25467423322374,7.324464978263533,8.3,756.0,,162
+10,Chateau du Haut Koenigsbourg,Résidence Les Cigogneaux,https://www.booking.com/hotel/fr/ra-c-sidence-les-cigogneaux.fr.html.html,48.25472318843043,7.350482694880668,8.6,178.0,,163
+10,Chateau du Haut Koenigsbourg,Fank'House,https://www.booking.com/hotel/fr/fank-house.fr.html.html,48.250812987362984,7.33106263867479,,,,164
+10,Chateau du Haut Koenigsbourg,Lila's Home - Appartement dans maison avec extérieur,https://www.booking.com/hotel/fr/lilas-home-appartement-dans-maison-avec-exterieur.fr.html.html,48.232993590802174,7.362384012698778,,,,165
+10,Chateau du Haut Koenigsbourg,Le Bouleau - Gîte Les 4 Vents,https://www.booking.com/hotel/fr/le-bouleau-gite-les-4-vents.fr.html.html,48.262794099823566,7.329887709110125,,,,166
+10,Chateau du Haut Koenigsbourg,Le Sapin - Gîte Les 4 Vents,https://www.booking.com/hotel/fr/le-sapin-gite-les-4-vents.fr.html.html,48.24221320259887,7.340526164949081,,,,167
+10,Chateau du Haut Koenigsbourg,Le Cerisier - Gîte Les 4 Vents,https://www.booking.com/hotel/fr/le-cerisier-gite-les-4-vents.fr.html.html,48.236842740415995,7.327355186723145,,,,168
+10,Chateau du Haut Koenigsbourg,Le Millésime Gîte de Charme classé 4 étoiles sur les remparts - Animaux de compagnie acceptés,https://www.booking.com/hotel/fr/le-millesime-gite-de-charme-classe-4-etoiles-sur-les-remparts-animaux-de-compagn.fr.html.html,48.231013005662184,7.363816170073838,,,,169
+10,Chateau du Haut Koenigsbourg,Le Dolder Gîte de Luxe classé 4 étoiles au coeur des remparts de Riquewihr - Animaux de compagnie acceptés,https://www.booking.com/hotel/fr/le-dolder-gite-de-luxe-au-coeur-des-remparts.fr.html.html,48.25301771772752,7.34402900041325,,,,170
+10,Chateau du Haut Koenigsbourg,Aux charmes d'Alsace - Idéal groupes et familles,https://www.booking.com/hotel/fr/aux-charmes-d-alsace-orschwiller.fr.html.html,48.25648457447369,7.347756600692802,,,,171
+10,Chateau du Haut Koenigsbourg,Au nid d'Alsace - SPA et sauna privé,https://www.booking.com/hotel/fr/au-nid-d-alsace.fr.html.html,48.23004551315711,7.326624259095537,,,,172
+10,Chateau du Haut Koenigsbourg,Gîte La Petite Maison Des Vacances,https://www.booking.com/hotel/fr/gite-la-petite-maison-des-vacances.fr.html.html,48.24986572233197,7.353939618815967,,,,173
+10,Chateau du Haut Koenigsbourg,Gite MUSCAT en Alsace sur la route des vins,https://www.booking.com/hotel/fr/gite-muscat-en-alsace-sur-la-route-des-vins.fr.html.html,48.23844183100791,7.332337423723823,,,,174
+10,Chateau du Haut Koenigsbourg,Sur La Route Du Vin,https://www.booking.com/hotel/fr/sur-la-route-du-vin-rorschwihr.fr.html.html,48.25518891161637,7.359863371577628,,,,175
+10,Chateau du Haut Koenigsbourg,Flora Gîte,https://www.booking.com/hotel/fr/flora-gite.fr.html.html,48.236356657160194,7.33214678561928,,,,176
+10,Chateau du Haut Koenigsbourg,Gîte Éclat De Soleil,https://www.booking.com/hotel/fr/gite-eclat-de-soleil.fr.html.html,48.2570195095241,7.331568708826547,,,,177
+10,Chateau du Haut Koenigsbourg,Au pied de la Volerie - Cour intérieure au calme,https://www.booking.com/hotel/fr/au-pied-de-la-volerie-cour-interieure-au-calme.fr.html.html,48.24485141385202,7.325403186713923,,,,178
+10,Chateau du Haut Koenigsbourg,Loft Cocon d'Alsace - Cour intérieure au calme,https://www.booking.com/hotel/fr/au-pied-de-la-volerie.fr.html.html,48.266851199549464,7.3428238778044,,,,179
+11,Colmar,Hôtel Kempf,https://www.booking.com/hotel/fr/kempf.fr.html.html,48.06325253776584,7.360557745330505,5.9,98.0,,180
+11,Colmar,Gîte Au Fil Du Temps,https://www.booking.com/hotel/fr/gite-au-fil-du-temps.fr.html.html,48.07139435404201,7.340592445577134,9.0,45.0,,181
+11,Colmar,Colmar Chic,https://www.booking.com/hotel/fr/colmar-chic.fr.html.html,48.062290640849625,7.3689852046678,,,,182
+11,Colmar,Le SCANDINAVE Centre Ville/2 chambres + Terrasse,https://www.booking.com/hotel/fr/le-scandinave-centre-ville-2-chambres-terrasse.fr.html.html,48.09473944473114,7.3560956533899216,8.5,58.0,,183
+11,Colmar,La Maison des Maraichers,https://www.booking.com/hotel/fr/la-maison-des-maraichers.fr.html.html,48.09284527413524,7.358939710773104,,,,184
+11,Colmar,Appartement centre Colmar tout confort,https://www.booking.com/hotel/fr/appartement-centre-colmar-tout-confort.fr.html.html,48.068069365108606,7.35559460987753,,,,185
+11,Colmar,Le Petit Maraîcher,https://www.booking.com/hotel/fr/le-petit-maraicher-colmar.fr.html.html,48.08415106184137,7.353994622435013,,,,186
+11,Colmar,Maison historique au coeur du marché de Noël,https://www.booking.com/hotel/fr/maison-historique-au-coeur-du-marche-de-noel.fr.html.html,48.09044058800805,7.360349713252329,,,,187
+11,Colmar,Pause&Séjour,https://www.booking.com/hotel/fr/pause-amp-sejour.fr.html.html,48.079959732463976,7.344173709837229,,,,188
+11,Colmar,Large Private Room Near Colmar Center with Free Public Parking,https://www.booking.com/hotel/fr/grande-chambre-privee-colmar.fr.html.html,48.07893772313424,7.345241225219811,9.8,5.0,,189
+11,Colmar,Apartment mit zwei Garagenstellplätzen by Interhome,https://www.booking.com/hotel/fr/apartment-mit-zwei-garagenstellplatzen-by-interhome.fr.html.html,48.06742579163602,7.372435524840541,,,,190
+11,Colmar,Jazz & Colmar - T2 - Free Parking - Centre ville- Colmar,https://www.booking.com/hotel/fr/jazz-amp-colmar-t2-free-parking-centre-ville-colmar.fr.html.html,48.06147581071224,7.375808718485345,,,,191
+11,Colmar,Maison individuelle Le Pigeonnier,https://www.booking.com/hotel/fr/maison-individuelle-le-pigeonnier.fr.html.html,48.09364033031813,7.3528964726511905,,,,192
+11,Colmar,La Suite des Maraîchers,https://www.booking.com/hotel/fr/la-suite-des-maraichers-colmar.fr.html.html,48.09376842228653,7.348793886925742,,,,193
+11,Colmar,Nouveau - Le Cigogneau - Colmar centre - Ascenseur,https://www.booking.com/hotel/fr/le-cigogneau-colmar-center-modern-and-elevator.fr.html.html,48.08307575829093,7.363724081729561,,,,194
+11,Colmar,Colmar historic center Charming duplex with balcony,https://www.booking.com/hotel/fr/colmar-historic-center-charming-duplex-with-balcony.fr.html.html,48.071312891641945,7.354313466843924,,,,195
+11,Colmar,La chambre d'hôtes du facteur d'orgues,https://www.booking.com/hotel/fr/la-chambre-d-hotes-du-facteur-d-orgues.fr.html.html,48.071720082984505,7.338979554226414,,,,196
+11,Colmar,Appartement moderne esprit loft avec balcon centre Colmar proche gare et Place Rapp,https://www.booking.com/hotel/fr/appartement-moderne-esprit-loft-avec-balcon-centre-colmar-proche-gare-et-place-r.fr.html.html,48.08678992715481,7.344210203894648,9.3,11.0,,197
+11,Colmar,Appartement cosy Colmar centre avec parking,https://www.booking.com/hotel/fr/appartement-cosy-colmar-centre-avec-parking.fr.html.html,48.0936361103981,7.366602989153896,9.2,5.0,,198
+11,Colmar,Appartement spacieux centre Colmar,https://www.booking.com/hotel/fr/appartement-spacieux-centre-colmar.fr.html.html,48.09323515697061,7.364321057676406,10.0,4.0,,199
+12,Eguisheim,Appartement Château Pape - Proche de Colmar,https://www.booking.com/hotel/fr/appartement-chateau-pape-proche-de-colmar.fr.html.html,48.055991821834304,7.28904563970014,10.0,1.0,,200
+12,Eguisheim,Appartement Obertor - A quelques minutes de Colmar,https://www.booking.com/hotel/fr/appartement-obertor-a-quelques-minutes-de-colmar.fr.html.html,48.05047806584617,7.296840686477318,10.0,1.0,,201
+12,Eguisheim,Appartement Horber - A quelques minutes de Colmar,https://www.booking.com/hotel/fr/appartement-horber-a-quelques-minutes-de-colmar.fr.html.html,48.028162398599804,7.297204791863523,10.0,1.0,,202
+12,Eguisheim,Nouveau La Terrasse des remparts à Eguisheim,https://www.booking.com/hotel/fr/nouveau-la-terrasse-des-remparts-a-eguisheim.fr.html.html,48.03126194856379,7.314837509743949,10.0,2.0,,203
+12,Eguisheim,Parenthèse à Eguisheim,https://www.booking.com/hotel/fr/alloncle-eguisheim.fr.html.html,48.060738967541084,7.288750221510175,8.0,3.0,,204
+12,Eguisheim,Duplex 3 châteaux,https://www.booking.com/hotel/fr/duplex-3-chateaux-historic-center-et-ac.fr.html.html,48.04905396238638,7.292126143279383,10.0,2.0,,205
+12,Eguisheim,GITE Au petit Bredela EGUISHEIM,https://www.booking.com/hotel/fr/gite-au-petit-bredela-eguisheim-eguisheim.fr.html.html,48.02516468206466,7.319958443414928,9.0,9.0,,206
+12,Eguisheim,Ide'Alsace,https://www.booking.com/hotel/fr/ide-alsace.fr.html.html,48.028855661714644,7.295103586482173,9.7,14.0,,207
+12,Eguisheim,L'Ecrin du Rempart,https://www.booking.com/hotel/fr/ecrin-du-rempart.fr.html.html,48.051336870764324,7.314071644314075,9.5,37.0,,208
+12,Eguisheim,Gîte Les Bleuets,https://www.booking.com/hotel/fr/gite-les-bleuets-eguisheim.fr.html.html,48.02499926335385,7.29748911124187,9.7,26.0,,209
+12,Eguisheim,Studio aux pieds des vignes,https://www.booking.com/hotel/fr/studio-aux-pieds-des-vignes.fr.html.html,48.0312291220567,7.291939455710374,9.4,48.0,,210
+12,Eguisheim,"BRETZEL gîte dans maison Alsacienne, Eguisheim",https://www.booking.com/hotel/fr/bretzel-gite-dans-maison-alsacienne-eguisheim-eguisheim.fr.html.html,48.046746151574666,7.297688687639979,9.0,10.0,,211
+12,Eguisheim,L'Atypique d'Eguisheim,https://www.booking.com/hotel/fr/atypique-d-eguisheim.fr.html.html,48.05247260790771,7.316852477274226,8.9,27.0,,212
+12,Eguisheim,Charmant studio avec parking,https://www.booking.com/hotel/fr/charmant-studio-avec-parking-eguisheim.fr.html.html,48.0508752503801,7.322189658724252,9.6,67.0,,213
+12,Eguisheim,L'Adresse Studio Rempart sud - centre historique Eguisheim,https://www.booking.com/hotel/fr/adresse-studio-rempart-sud.fr.html.html,48.03376757237842,7.3211705945826795,9.7,67.0,,214
+12,Eguisheim,Gite Traditionnel au Centre Historique d'Éguisheim,https://www.booking.com/hotel/fr/gite-traditionnel-chez-leon-eguisheim.fr.html.html,48.053283968853904,7.303849141184738,9.1,54.0,,215
+12,Eguisheim,Maison de Renaud,https://www.booking.com/hotel/fr/maison-de-renaud.fr.html.html,48.03428676349987,7.314685205462826,8.3,86.0,,216
+12,Eguisheim,L'Adresse - Rempart Sud - Eguisheim avec garage privé,https://www.booking.com/hotel/fr/adresse-rempart-sud.fr.html.html,48.03781278792637,7.296161171816633,9.6,81.0,,217
+12,Eguisheim,La Grange de Madeleine,https://www.booking.com/hotel/fr/la-grange-de-madeleine.fr.html.html,48.05465645620472,7.299687709210441,8.7,48.0,,218
+12,Eguisheim,Les pensées d'Anne & Marie duplex 4/6 Personnes,https://www.booking.com/hotel/fr/les-pensees-d-anne-amp-marie-duplex-4-6-personnes.fr.html.html,48.05078211596189,7.323815232740845,9.4,35.0,,219
+13,Besancon,Ethic Etapes CIS de Besançon,https://www.booking.com/hotel/fr/ethic-etapes-centre-international-de-sa-c-jour-de-besanasson.fr.html.html,47.25199113641977,6.004882276940429,7.3,539.0,,220
+13,Besancon,Le Fabre,https://www.booking.com/hotel/fr/le-fabre.fr.html.html,47.24432671569202,6.007782541234178,,,,221
+13,Besancon,"Le Chasnot, proche gare et centre ville",https://www.booking.com/hotel/fr/le-chasnot-proche-gare-et-centre-ville.fr.html.html,47.240754544133424,6.01267765020584,8.2,54.0,,222
+13,Besancon,Centre Ville - appartement de caractère- baignoire Balneo,https://www.booking.com/hotel/fr/centre-ville-appartement-de-caractere-baignoire-jacuzzi.fr.html.html,47.221769190713125,6.005423488154952,10.0,1.0,,223
+13,Besancon,Nid sous les toits calme & cosy - Hypercentre Besançon,https://www.booking.com/hotel/fr/grand-nid-cosy-hypercentre-besancon.fr.html.html,47.23273083212238,6.011619617403592,,,,224
+13,Besancon,Besançon- Suite Victor H- Appart' pour équipe PRO et famille,https://www.booking.com/hotel/fr/besancon-appart-noom-pour-equipe-professionnelle-et-famille-besancon.fr.html.html,47.22863029470727,6.027683862438788,,,,225
+13,Besancon,Besançon- Suite Lumière- appart pour Equipe pro et famille,https://www.booking.com/hotel/fr/besancon-appart-noom-pour-equipe-professionnelle-et-famille.fr.html.html,47.22778178573517,6.0212191820236995,10.0,1.0,,226
+13,Besancon,Palme d'or,https://www.booking.com/hotel/fr/palme-d-or-besancon.fr.html.html,47.2569426221901,6.040069068443079,,,,227
+13,Besancon,Studio Cosy,https://www.booking.com/hotel/fr/studio-cosy-besancon1.fr.html.html,47.23374610898667,6.037059942469537,,,,228
+13,Besancon,Appartement neuf 8 prsn Garage & Terrasse privée,https://www.booking.com/hotel/fr/appartement-8-prsn-garage-amp-terrasse-privee.fr.html.html,47.253704062207085,6.018034894067915,,,,229
+13,Besancon,Le polygone wifi parking proche,https://www.booking.com/hotel/fr/le-polygone-wifi-parking-proche.fr.html.html,47.243267745039894,6.014739137337251,,,,230
+13,Besancon,Appartement Zone Chateaufarine 6 Personnes,https://www.booking.com/hotel/fr/appartement-zone-chateaufarine-6-personnes.fr.html.html,47.249814652141666,6.019549896326691,,,,231
+13,Besancon,Studio Lumineux 2prsn Proche Gare Viotte,https://www.booking.com/hotel/fr/studio-lumineux-2prsn-proche-gare-viotte.fr.html.html,47.23812768372421,6.027973997700592,,,,232
+13,Besancon,Chaleureux appartement gare - centre ville - Parking,https://www.booking.com/hotel/fr/chaleureux-appartement-gare-centre-ville-parking.fr.html.html,47.241098355385056,6.015084745632914,,,,233
+13,Besancon,Le Green,https://www.booking.com/hotel/fr/le-green-besancon.fr.html.html,47.237722907752755,6.029328156313965,8.0,1.0,,234
+13,Besancon,la pause en ville,https://www.booking.com/hotel/fr/la-pause-en-ville.fr.html.html,47.225831919511926,6.02073866608765,6.0,1.0,,235
+13,Besancon,"Appartement 3 prsn, Parking privée, Proche Citadelle",https://www.booking.com/hotel/fr/appartement-3-prsn-parking-privee-proche-citadelle.fr.html.html,47.24692028461046,6.026444087234079,,,,236
+13,Besancon,Appartement Climatisé 4 prsn Au bord du Doubs,https://www.booking.com/hotel/fr/appartement-climatise-4-prsn-au-bord-du-doubs.fr.html.html,47.229253094497636,6.021807261165413,9.0,1.0,,237
+13,Besancon,Studette Confort Proche Tramway et Gare,https://www.booking.com/hotel/fr/studette-confort-proche-tramway-et-gare.fr.html.html,47.21899483865726,6.016140830381676,10.0,1.0,,238
+13,Besancon,Studio Garage Machine à laver Proche du centre,https://www.booking.com/hotel/fr/studio-garage-machine-a-laver-proche-du-centre.fr.html.html,47.24384109183629,6.042300332278486,,,,239
+14,Dijon,"Beautiful apartment with balcony, Dijon center",https://www.booking.com/hotel/fr/beautiful-apartment-with-balcony-dijon-center.fr.html.html,47.30866502717628,5.05201433176639,,,,240
+14,Dijon,l'oasis,https://www.booking.com/hotel/fr/oasis-dijon.fr.html.html,47.339198943374114,5.027074627030657,,,,241
+14,Dijon,Dijon centre ville Design Le Terrot,https://www.booking.com/hotel/fr/le-terrot-studio-design-coin-nuit-cosy-en-mezzanine.fr.html.html,47.3397377430801,5.056208819035916,8.3,40.0,,242
+14,Dijon,STUDIO DIJON hyper centre Rue pietonne,https://www.booking.com/hotel/fr/studio-dijon-hyper-centre-rue-pietonne.fr.html.html,47.33817517560882,5.04096734792998,,,,243
+14,Dijon,Charmant T2 - Proche centre ville,https://www.booking.com/hotel/fr/charmant-t2-proche-centre-ville-dijon.fr.html.html,47.31638694801021,5.057252189075763,,,,244
+14,Dijon,"Appartement de 60 m2 avec 2 chambres, Dijon cœur de ville",https://www.booking.com/hotel/fr/60-m2-apartment-with-2-bedrooms-in-the-heart-of-dijon.fr.html.html,47.30219886466115,5.053464310237892,,,,245
+14,Dijon,Le Bel André - calme - parking gratuit,https://www.booking.com/hotel/fr/le-bel-andre-calme-parking-gratuit.fr.html.html,47.3387133425035,5.038478640178769,,,,246
+14,Dijon,Le Mars - 2 voyageurs - Republique - Central,https://www.booking.com/hotel/fr/le-mars-2-voyageurs-republique-central.fr.html.html,47.31870796593269,5.022368872332804,,,,247
+14,Dijon,Le Bel Hugo Parking GRATUIT,https://www.booking.com/hotel/fr/le-bel-hugo-parking-gratuit.fr.html.html,47.34024679276175,5.032217194375398,,,,248
+14,Dijon,Maison Alba,https://www.booking.com/hotel/fr/maison-alba-dijon.fr.html.html,47.34012539908357,5.043135468586434,8.0,1.0,,249
+14,Dijon,Studio Chouette Dijon,https://www.booking.com/hotel/fr/studio-chouette-dijon.fr.html.html,47.33570097821869,5.0468092287930455,,,,250
+14,Dijon,"LE JFK, Coeur historique de Dijon",https://www.booking.com/hotel/fr/le-jfk-coeur-historique-de-dijon.fr.html.html,47.31335855568278,5.031785607417328,,,,251
+14,Dijon,Le Nid de la Chouette - Dijon Historic Center,https://www.booking.com/hotel/fr/le-nid-de-la-chouette-dijon-historic-center.fr.html.html,47.31698450914408,5.027044342962912,10.0,1.0,,252
+14,Dijon,La Reception des Ducs - Dijon Centre Historique,https://www.booking.com/hotel/fr/la-reception-des-ducs.fr.html.html,47.33562606686067,5.054867309471971,8.0,1.0,,253
+14,Dijon,Le Pascal T3 lumineux & design proche centre Dijon,https://www.booking.com/hotel/fr/le-pascal-t3-lumineux-design-proche-centre-dijon.fr.html.html,47.31425748020625,5.060846187228142,,,,254
+14,Dijon,"Le Crébillon - 30m2, 2 Prs, 1 Ch, Centre ville",https://www.booking.com/hotel/fr/le-crebillon-30m2-2-prs-1-ch-centre-ville-dijon.fr.html.html,47.30836030986744,5.042497707292108,,,,255
+14,Dijon,Le Latte,https://www.booking.com/hotel/fr/le-latte.fr.html.html,47.32385265049833,5.028337271433932,,,,256
+14,Dijon,Bel Appartement-T3 Lumineux,https://www.booking.com/hotel/fr/bel-appartement-t3-lumineux.fr.html.html,47.33902679096643,5.032362393060774,,,,257
+14,Dijon,La Clé des Chemins Dijonnais - VLK Gestion,https://www.booking.com/hotel/fr/la-cle-des-chemins-dijonnais-vlk-gestion.fr.html.html,47.329421791867,5.022205727061898,,,,258
+14,Dijon,T2 4 pers rénové au cœur du centre historique Place de la Libération,https://www.booking.com/hotel/fr/t2-4-pers-renove-au-coeur-du-centre-historique-place-de-la-liberation.fr.html.html,47.324383046803575,5.05804205226242,10.0,4.0,,259
+15,Annecy,Le Bach - 5 min from Lake Annecy Terrace & Parking by ImmoConciergerie,https://www.booking.com/hotel/fr/le-bach-5-min-from-lake-annecy-terrace-amp-parking-by-immoconciergerie.fr.html.html,45.88312185975083,6.113594743315606,,,,260
+15,Annecy,Family spot - Appart moderne 15 min d'annecy,https://www.booking.com/hotel/fr/family-spot-appart-moderne-15-min-d-annecy.fr.html.html,45.90383508906797,6.131945359020571,,,,261
+15,Annecy,La Perle - balcon et centre-ville,https://www.booking.com/hotel/fr/la-perle-balcon-et-centre-ville.fr.html.html,45.91883695400417,6.119846908827489,,,,262
+15,Annecy,Royal Rock River Lodge,https://www.booking.com/hotel/fr/royal-rock-river-lodge.fr.html.html,45.88483816060946,6.131051820100632,10.0,1.0,,263
+15,Annecy,"Xel-Lac appartement, 4 personnes, Annecy",https://www.booking.com/hotel/fr/xel-lac-appartement-4-personnes-annecy.fr.html.html,45.89996798609455,6.134941515534075,,,,264
+15,Annecy,L'Irrésistible avec PARKING à 200m du lac,https://www.booking.com/hotel/fr/irresistible-avec-parking-a-200m-a-deux-pas-du-lac.fr.html.html,45.91432972287712,6.142074372148288,,,,265
+15,Annecy,"L'Ecrin Dunant - Luxe, Centre, Calme, Lac, Parking",https://www.booking.com/hotel/fr/ecrin-dunant-luxe-centre-calme-lac-parking.fr.html.html,45.90886554471017,6.117141550870424,,,,266
+15,Annecy,L'Impérieux - Appartement confortable près du lac,https://www.booking.com/hotel/fr/imperieux-appartement-confortable-pres-du-lac.fr.html.html,45.907115429639816,6.1093245331463395,,,,267
+15,Annecy,T2 Paquier,https://www.booking.com/hotel/fr/t2-paquier-annecy.fr.html.html,45.90733416335949,6.114360125202753,,,,268
+15,Annecy,Annecy Garden Spa Billiards,https://www.booking.com/hotel/fr/annecy-garden-spa-billiards.fr.html.html,45.893614446048794,6.144885445673925,,,,269
+15,Annecy,Appartement historique Annecy,https://www.booking.com/hotel/fr/appartement-historique-annecy.fr.html.html,45.89097847377058,6.143840303102501,,,,270
+15,Annecy,LE CHORUS,https://www.booking.com/hotel/fr/2-rue-du-parc.fr.html.html,45.91160924621914,6.132781224086813,,,,271
+15,Annecy,L'ATLAS au coeur de la vieille ville,https://www.booking.com/hotel/fr/atlas-au-coeur-de-la-vieille-ville.fr.html.html,45.91163933578717,6.132905374417347,,,,272
+15,Annecy,Le Joseph - Appartement au calme,https://www.booking.com/hotel/fr/le-joseph.fr.html.html,45.913917692743205,6.135486166981851,,,,273
+15,Annecy,Les Frères Belledonne,https://www.booking.com/hotel/fr/les-freres-belledonne.fr.html.html,45.915764422102264,6.115899551144938,,,,274
+15,Annecy,Appartement centre-ville Annecy avec parking et WIFI - FR-1-432-96,https://www.booking.com/hotel/fr/appartement-centre-ville-annecy-avec-parking-et-wifi-fr-1-432-96.fr.html.html,45.89968849595444,6.1454611778369985,,,,275
+15,Annecy,T2 Calme et lumineux Annecy avec parking privé,https://www.booking.com/hotel/fr/quiet-and-bright-apartment-with-private-parking.fr.html.html,45.89929545178749,6.125635520995683,,,,276
+15,Annecy,Old town flat,https://www.booking.com/hotel/fr/old-town-flat-annecy.fr.html.html,45.91116660715867,6.124210241129981,,,,277
+15,Annecy,Chambre-Studio et SAUNA indépendants,https://www.booking.com/hotel/fr/chambre-studio-et-sauna-independants.fr.html.html,45.90523335723111,6.129641408211314,10.0,2.0,,278
+15,Annecy,3 Quater Avenue de Chevesnes,https://www.booking.com/hotel/fr/3-quater-avenue-de-chevesnes.fr.html.html,45.90731347509031,6.110763338671003,8.8,5.0,,279
+16,Grenoble,T1 bis - esprit New York - wifi fibre - lit double,https://www.booking.com/hotel/fr/t1-bis-esprit-new-york-wifi-fibre-lit-double.fr.html.html,45.19939190677744,5.722433234750243,7.4,8.0,,280
+16,Grenoble,Le Dubedout - Hyper Centre - Bastille,https://www.booking.com/hotel/fr/le-dubedout-hyper-centre-bastille.fr.html.html,45.203160413672705,5.745303244657055,,,,281
+16,Grenoble,"Marché des Halles sur cour Ascenseur, Hypercentre",https://www.booking.com/hotel/fr/marche-des-halles-sur-cour-ascenseur-hypercentre.fr.html.html,45.18108000627406,5.719093846717005,,,,282
+16,Grenoble,MYD - The Jules Verne,https://www.booking.com/hotel/fr/myd-the-jules-verne.fr.html.html,45.182583518105595,5.739907984378656,,,,283
+16,Grenoble,La Case,https://www.booking.com/hotel/fr/la-case-grenoble.fr.html.html,45.171319477593634,5.725595864387253,,,,284
+16,Grenoble,The Charming 2,https://www.booking.com/hotel/fr/the-charming-2.fr.html.html,45.190691405639846,5.7313537245616795,,,,285
+16,Grenoble,Downtown Patio,https://www.booking.com/hotel/fr/downtown-patio.fr.html.html,45.16899789095187,5.727329649470828,,,,286
+16,Grenoble,La Petite Estacade 3,https://www.booking.com/hotel/fr/la-petite-estacade-3.fr.html.html,45.1861841207253,5.730008808658598,,,,287
+16,Grenoble,The Champon House,https://www.booking.com/hotel/fr/the-champon-house.fr.html.html,45.1892659853883,5.74454373620737,,,,288
+16,Grenoble,Authentic apartment in the Antiquaires district,https://www.booking.com/hotel/fr/authentic-apartment-in-the-antiquaires-district.fr.html.html,45.17902185008513,5.727666768624927,,,,289
+16,Grenoble,Beautiful contemporary apartment with parking,https://www.booking.com/hotel/fr/beautiful-contemporary-apartment-with-parking.fr.html.html,45.19119353042276,5.738438085611876,,,,290
+16,Grenoble,Modern Studio with Garden Central Location,https://www.booking.com/hotel/fr/modern-studio-with-garden-central-location.fr.html.html,45.168780209997564,5.734823916087964,,,,291
+16,Grenoble,"Cozy apartment near GEM, Europole, Gare",https://www.booking.com/hotel/fr/cozy-apartment-near-gem-europole-gare.fr.html.html,45.16905412754997,5.742328746614506,,,,292
+16,Grenoble,Elegance,https://www.booking.com/hotel/fr/elegance-grenoble.fr.html.html,45.20046422242638,5.75325508957299,,,,293
+16,Grenoble,Le petit mistral,https://www.booking.com/hotel/fr/le-petit-mistral-grenoble.fr.html.html,45.18196782565645,5.7450847838884105,,,,294
+16,Grenoble,Appartement au cœur de Championnet,https://www.booking.com/hotel/fr/appartement-au-coeur-de-championnet.fr.html.html,45.172642620506075,5.724379515143631,,,,295
+16,Grenoble,#IK - Le Victoria 7,https://www.booking.com/hotel/fr/ik-le-victoria-7.fr.html.html,45.18844993040219,5.7170292254024515,,,,296
+16,Grenoble,#IJ - Le Victoria 6,https://www.booking.com/hotel/fr/ij-le-victoria-6.fr.html.html,45.19835994212394,5.726272461771993,,,,297
+16,Grenoble,#IH - Le Victoria 4,https://www.booking.com/hotel/fr/ih-le-victoria-4.fr.html.html,45.17619304109987,5.73958501722801,,,,298
+16,Grenoble,#IG - Le Victoria 3,https://www.booking.com/hotel/fr/ig-le-victoria-3.fr.html.html,45.19247581903276,5.71783893253937,,,,299
+17,Lyon,Suite Orion,https://www.booking.com/hotel/fr/suite-orion.fr.html.html,45.74122759859975,4.831866049888049,,,,300
+17,Lyon,Urban'Mezza Spot - Lyon Valmy - Wi-Fi & Metro,https://www.booking.com/hotel/fr/urban-mezza-spot-lyon-valmy-wi-fi-amp-metro.fr.html.html,45.73988096884674,4.835885113956675,9.0,12.0,,301
+17,Lyon,Le charme au cœur du Vieux Lyon AIL,https://www.booking.com/hotel/fr/incredible-location-close-to-place-st-jean.fr.html.html,45.75906788526272,4.825381155632678,7.5,16.0,,302
+17,Lyon,Quiet and sunny charming one-bedroom apartment with views,https://www.booking.com/hotel/fr/quiet-and-sunny-charming-one-bedroom-apartment-with-views.fr.html.html,45.759439104864406,4.842847888149833,,,,303
+17,Lyon,Pop Cordelier - Appartement idéal au coeur de Lyon,https://www.booking.com/hotel/fr/pop-cordelier-appartement-ideal-au-coeur-de-lyon.fr.html.html,45.76331089605993,4.816275330125351,,,,304
+17,Lyon,Berthelot Design au pied du tram et proche métro,https://www.booking.com/hotel/fr/berthelot-design-au-pied-du-tram-et-proche-metro.fr.html.html,45.766857353348904,4.815016911269432,,,,305
+17,Lyon,"BnGo I Le Central & Cosy I 4p, Centre-ville, Balcon",https://www.booking.com/hotel/fr/le-central-lyon.fr.html.html,45.7768477831785,4.841138950248144,,,,306
+17,Lyon,Atelier Cosy Félix à 10 minutes de la Gare,https://www.booking.com/hotel/fr/atelier-cosy-felix-a-10-minutes-de-la-gare.fr.html.html,45.75846571393205,4.831831052648248,,,,307
+17,Lyon,Superbe apt Lyon 8ème Terrasse parking privé,https://www.booking.com/hotel/fr/superbe-apt-lyon-8eme-terrasse-parking-prive.fr.html.html,45.75073195891765,4.83954749585711,,,,308
+17,Lyon,Charming T2 Garibaldi with parking,https://www.booking.com/hotel/fr/charming-t2-garibaldi-with-parking.fr.html.html,45.76962114779075,4.82940449354415,,,,309
+17,Lyon,Le Revolutionnaire - Centre de Lyon,https://www.booking.com/hotel/fr/le-revolutionnaire-centre-de-lyon.fr.html.html,45.74864699005048,4.821867481329564,,,,310
+17,Lyon,Le Petit Canut - T1 sous les toits avec vue,https://www.booking.com/hotel/fr/le-petit-canut-t1-sous-les-toits-avec-vue.fr.html.html,45.75537255682823,4.844775492706968,,,,311
+17,Lyon,DIFY Appartement Loge - Vieux Lyon,https://www.booking.com/hotel/fr/dify-appartement-loge-vieux-lyon-lyon.fr.html.html,45.74095195525369,4.843988035158759,,,,312
+17,Lyon,Host Inn Velvy Suite,https://www.booking.com/hotel/fr/host-inn-velvy-suite.fr.html.html,45.73882772973662,4.8397992588341765,,,,313
+17,Lyon,T1 Cozy Lyon 1er CENTRE Proche métro & Transports,https://www.booking.com/hotel/fr/t1-cozy-lyon-1er-centre-proche-metro-amp-transports.fr.html.html,45.77631963658712,4.822897205489198,,,,314
+17,Lyon,Le Bellecour - L'instant Lyonnais,https://www.booking.com/hotel/fr/le-bellecour-l-instant-lyonnais.fr.html.html,45.771252904820486,4.835620626674763,,,,315
+17,Lyon,Le Saint Jean - Signature Urbaine élégante,https://www.booking.com/hotel/fr/le-saint-jean-signature-urbaine-elegante.fr.html.html,45.765652668243746,4.826450355877601,,,,316
+17,Lyon,Le Fourvière - Le Cocon D'or,https://www.booking.com/hotel/fr/le-fourviere-le-cocon-d-or.fr.html.html,45.75417181777657,4.815674682933065,,,,317
+17,Lyon,Le Célestin - Signature Urbaine,https://www.booking.com/hotel/fr/le-celestin-signature-urbaine.fr.html.html,45.74474547280283,4.8487039430184895,,,,318
+17,Lyon,Le Confluence - Cocooning City Lyon,https://www.booking.com/hotel/fr/le-confluence-cocooning-city-lyon.fr.html.html,45.74407118170684,4.817484145236758,,,,319
+18,Gorges du Verdon,"Appartement sur les toits, très jolie vue Provence",https://www.booking.com/hotel/fr/appartement-sur-les-toits-tres-jolie-vue-provence.fr.html.html,43.73966591592658,6.346571094152831,9.5,30.0,,320
+18,Gorges du Verdon,Logis du Grand Puits,https://www.booking.com/hotel/fr/logis-du-grand-puits.fr.html.html,43.75162526658824,6.326401830918318,,,,321
+18,Gorges du Verdon,Le jas fleuri,https://www.booking.com/hotel/fr/le-jas-fleuri.fr.html.html,43.758240036908,6.315966917153545,,,,322
+18,Gorges du Verdon,Renovated studio with mezzanine close,https://www.booking.com/hotel/fr/renovated-studio-with-mezzanine-close.fr.html.html,43.75606409506871,6.3302376378951335,,,,323
+18,Gorges du Verdon,Gîte Lavandin 2,https://www.booking.com/hotel/fr/gite-lavandin-2.fr.html.html,43.740853555877834,6.343479433435056,,,,324
+18,Gorges du Verdon,Gîte Cigales 1,https://www.booking.com/hotel/fr/gite-cigales-1.fr.html.html,43.76785081122652,6.337850595456382,,,,325
+18,Gorges du Verdon,Gîte Coccinelle,https://www.booking.com/hotel/fr/gite-coccinelle-allemagne-en-provence.fr.html.html,43.75917207666783,6.340824045914458,,,,326
+18,Gorges du Verdon,Gîte Cigales 2,https://www.booking.com/hotel/fr/gite-cigales-2.fr.html.html,43.751830362100456,6.334912934668428,,,,327
+18,Gorges du Verdon,Gîte Lavandin 1,https://www.booking.com/hotel/fr/gite-lavandin-1.fr.html.html,43.75412502984937,6.336252662580714,,,,328
+18,Gorges du Verdon,Gîte Lavandin 3,https://www.booking.com/hotel/fr/gite-lavandin-3.fr.html.html,43.746440202497105,6.342529426062613,,,,329
+18,Gorges du Verdon,Mobil home YANN,https://www.booking.com/hotel/fr/mobil-home-yann.fr.html.html,43.73956543958004,6.318548320354367,,,,330
+18,Gorges du Verdon,T1 - Belle Vue Panoramique,https://www.booking.com/hotel/fr/t1-belle-vue-panoramique.fr.html.html,43.743895107146045,6.328138598545725,,,,331
+18,Gorges du Verdon,Gîte les Tournesols - Castellane - Gorges du Verdon,https://www.booking.com/hotel/fr/gite-les-tournesols-castellane-gorges-du-verdon.fr.html.html,43.75997004441857,6.317409977672783,,,,332
+18,Gorges du Verdon,location verdon,https://www.booking.com/hotel/fr/location-verdon.fr.html.html,43.730231939545185,6.348068320319865,,,,333
+18,Gorges du Verdon,CASA TARA studio duplex 2 pers proche gorges du Verdon,https://www.booking.com/hotel/fr/casa-tara-studio-duplex-2-pers-proche-gorges-du-verdon.fr.html.html,43.73429910562027,6.346323973587464,,,,334
+18,Gorges du Verdon,L'Ecrin - Clim-Parking-Loggias-Cure thermale,https://www.booking.com/hotel/fr/ecrin-clim-parking-loggias-cure-thermale.fr.html.html,43.731496305680864,6.31013867245474,,,,335
+18,Gorges du Verdon,"Komfortables Haus für Familien, Freunde und Motorradfahrer",https://www.booking.com/hotel/fr/komfortables-haus-fur-familien-freunde-und-motorradfahrer.fr.html.html,43.731285352092755,6.336784606900627,,,,336
+18,Gorges du Verdon,Lodges en pleine nature,https://www.booking.com/hotel/fr/lodges-en-pleine-nature.fr.html.html,43.76387462336044,6.345571532696626,,,,337
+18,Gorges du Verdon,Apartment Wohnung mit Kamin by Interhome,https://www.booking.com/hotel/fr/apartment-wohnung-mit-kamin-by-interhome.fr.html.html,43.7578025143752,6.315784613805093,,,,338
+18,Gorges du Verdon,Apartment Samson mit Kamin by Interhome,https://www.booking.com/hotel/fr/apartment-samson-mit-kamin-by-interhome.fr.html.html,43.74862315316349,6.3312794092221045,,,,339
+19,Bormes les Mimosas,Chalet confortable avec terrasse - API-1-52-320,https://www.booking.com/hotel/fr/chalet-cosy-avec-terrasse-pour-2-personnes-api-1-52-320.fr.html.html,43.134610166426036,6.3585480319035215,,,,340
+19,Bormes les Mimosas,Villa Le Patio,https://www.booking.com/hotel/fr/le-patio-bormes-les-mimosas.fr.html.html,43.15036143500467,6.323286339143432,,,,341
+19,Bormes les Mimosas,Spacious quiet villa with large swimming pool,https://www.booking.com/hotel/fr/spacious-quiet-villa-with-large-swimming-pool.fr.html.html,43.14963567083122,6.349825310689874,,,,342
+19,Bormes les Mimosas,BO560-023 Appt Studio 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo560-023-appt-studio-4-couchages-bormes-les-mimosas.fr.html.html,43.1376248747964,6.333822460294902,,,,343
+19,Bormes les Mimosas,BO490-022 Appartement Studio coin nuit 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo490-022-appartement-studio-coin-nuit-4-couchages-bormes-les-mimosas.fr.html.html,43.148050865969516,6.358904347815061,,,,344
+19,Bormes les Mimosas,BO270-C15 Appartement Studio 3 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo270-c15-appartement-studio-3-couchages-bormes-les-mimosas.fr.html.html,43.14663698937589,6.360770829806615,,,,345
+19,Bormes les Mimosas,Appartement T2 proche plage avec garage - 4 pers. - FR-1-251-930,https://www.booking.com/hotel/fr/appartement-t2-proche-plage-avec-garage-4-pers-fr-1-251-930.fr.html.html,43.155330803922084,6.359699159564538,,,,346
+19,Bormes les Mimosas,"T2 Cabine 33m², Terrasse, Parking, 6 Pers - FR-1-610-123",https://www.booking.com/hotel/fr/t2-cabine-33m2-terrasse-parking-6-pers-fr-1-610-123.fr.html.html,43.15610054603471,6.340897068666298,,,,347
+19,Bormes les Mimosas,"T3 Climatisé avec Terrasse - Accès Plage, Animaux Acceptés - FR-1-610-122",https://www.booking.com/hotel/fr/t3-climatise-avec-terrasse-acces-plage-animaux-acceptes-fr-1-610-122.fr.html.html,43.13250896039088,6.356410206039572,,,,348
+19,Bormes les Mimosas,Holiday Home in Bormes-les-Mimosas with Pool,https://www.booking.com/hotel/fr/villa-freesia-villa-4-pieces.fr.html.html,43.14568130458506,6.355710475941403,,,,349
+19,Bormes les Mimosas,T2 avec Loggia à La Favière - 5 Pers. + Parking - FR-1-610-124,https://www.booking.com/hotel/fr/t2-avec-loggia-a-la-faviere-5-pers-parking-fr-1-610-124.fr.html.html,43.155731196628565,6.33469251892973,,,,350
+19,Bormes les Mimosas,Maison de la Galliniere,https://www.booking.com/hotel/fr/maison-de-la-galliniere.fr.html.html,43.150822250343204,6.355085118966027,,,,351
+19,Bormes les Mimosas,BO260-308 Appartement 2 pièces 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo260-308-appartement-2-pieces-4-couchages-bormes-les-mimosas.fr.html.html,43.16495639364753,6.3234088053886195,,,,352
+19,Bormes les Mimosas,BO240-B34 Appartement 2 PIECES 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo240-b34-appartement-2-pieces-4-couchages-bormes-les-mimosas.fr.html.html,43.15704454526475,6.345779295139282,,,,353
+19,Bormes les Mimosas,BO240-A21 Appartement 2 PIECES 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo240-a21-appartement-2-pieces-4-couchages-bormes-les-mimosas.fr.html.html,43.13721417708326,6.331128853491508,,,,354
+19,Bormes les Mimosas,BO240-A09 Appartement Studio 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo240-a09-appartement-studio-4-couchages-bormes-les-mimosas.fr.html.html,43.133519549896015,6.326751175431091,,,,355
+19,Bormes les Mimosas,BO230-314 Appartement Studio coin nuit 4 couchages BORMES LES MIMOSAS,https://www.booking.com/hotel/fr/bo230-314-appartement-studio-coin-nuit-4-couchages-bormes-les-mimosas.fr.html.html,43.15639357112825,6.325006628065168,,,,356
+19,Bormes les Mimosas,"Appartement 2 Pièces, Climatisé, Parking, 4 Couchages - FR-1-251-927",https://www.booking.com/hotel/fr/appartement-2-pieces-climatise-parking-4-couchages-fr-1-251-927.fr.html.html,43.131757252421664,6.349780051035125,,,,357
+19,Bormes les Mimosas,Appartement Moderne 2 pièces à Bormes - Terrasse et Parking - FR-1-251-925,https://www.booking.com/hotel/fr/appartement-moderne-2-pieces-a-bormes-terrasse-et-parking-fr-1-251-925.fr.html.html,43.15412782325094,6.335523498550723,,,,358
+19,Bormes les Mimosas,"Appartement 2 pièces 4 pers, Bormes-les-Mimosas, Plage - FR-1-251-924",https://www.booking.com/hotel/fr/appartement-2-pieces-4-pers-bormes-les-mimosas-plage-fr-1-251-924.fr.html.html,43.168306009656995,6.35091917086115,,,,359
+20,Cassis,Les Cigales,https://www.booking.com/hotel/fr/les-cigales-cassis.fr.html.html,43.21705486711503,5.522246053631958,,,,360
+20,Cassis,Studio rose,https://www.booking.com/hotel/fr/studio-rose-cassis.fr.html.html,43.20956269704826,5.532243413513225,9.0,1.0,,361
+20,Cassis,Cap Winky - Cassis - Winkyhouse,https://www.booking.com/hotel/fr/cap-winky-cassis-winkyhouse.fr.html.html,43.21976742873769,5.5412114516950135,,,,362
+20,Cassis,Le CapCanaille par Dodo-a-Cassis,https://www.booking.com/hotel/fr/le-cap-par-dodo-a-cassis.fr.html.html,43.21236601561966,5.551260726593559,,,,363
+20,Cassis,Cassis 5 pers parking vue mer,https://www.booking.com/hotel/fr/cassis-5-pers-parking-vue-mer.fr.html.html,43.215860571572634,5.532381900117283,,,,364
+20,Cassis,T2 Le Panorama,https://www.booking.com/hotel/fr/t2-le-panorama.fr.html.html,43.23169449235106,5.544667455057481,,,,365
+20,Cassis,Le Bellavista T2 Cassis Emplacement,https://www.booking.com/hotel/fr/le-bellavista-t2-cassis-emplacement.fr.html.html,43.20948000551203,5.555070909929448,,,,366
+20,Cassis,T2 Le Bougainvillier Cassis,https://www.booking.com/hotel/fr/t2-le-bougainvillier-cassis.fr.html.html,43.232483522552954,5.544266327527293,,,,367
+20,Cassis,Grand Studio vue Mer,https://www.booking.com/hotel/fr/grand-studio-vue-mer-cassis.fr.html.html,43.230249925678244,5.528950178990145,,,,368
+20,Cassis,cabane perchee dans les arbres,https://www.booking.com/hotel/fr/cabane-perchee-dans-les-arbres-cassis1.fr.html.html,43.20186754539157,5.520607831262262,,,,369
+20,Cassis,Fleurs de Pampa,https://www.booking.com/hotel/fr/fleurs-de-pampa.fr.html.html,43.19681035203501,5.554435754956038,,,,370
+20,Cassis,L'Horizon Bleu - 2 Chambres - Parking Libre - Vue,https://www.booking.com/hotel/fr/horizon-bleu-2-chambres-parking-libre-vue.fr.html.html,43.1980670200551,5.5204825764340155,10.0,1.0,,371
+20,Cassis,Giovannina N3,https://www.booking.com/hotel/fr/giovannina-n3.fr.html.html,43.19476477302606,5.554619866907369,7.6,35.0,,372
+20,Cassis,Lou soulèu,https://www.booking.com/hotel/fr/le-club-cassis2.fr.html.html,43.19781361843024,5.540789285361089,,,,373
+20,Cassis,La Pause Cassidaine - Proche du port,https://www.booking.com/hotel/fr/la-pause-cassidaine-proche-du-port.fr.html.html,43.22135617093665,5.557194507940516,,,,374
+20,Cassis,Le Son des Vagues,https://www.booking.com/hotel/fr/le-son-des-vagues.fr.html.html,43.19688344593841,5.551583129430947,,,,375
+20,Cassis,Villa à Cassis avec Piscine et Climatisation - FR-1-770-70,https://www.booking.com/hotel/fr/villa-a-cassis-avec-piscine-et-vue-fr-1-770-70.fr.html.html,43.20679492521175,5.559549164421334,,,,376
+20,Cassis,Chez Loïc Cassis,https://www.booking.com/hotel/fr/chez-loic-cassis.fr.html.html,43.227830912438776,5.533660272618069,7.0,1.0,,377
+20,Cassis,Chez Giulia Cassis,https://www.booking.com/hotel/fr/chez-giulia-cassis-cassis1.fr.html.html,43.194966777429435,5.550319331557246,8.7,3.0,,378
+20,Cassis,Cassis Plage 4,https://www.booking.com/hotel/fr/cassis-plage-4.fr.html.html,43.226614639303556,5.53570903654437,8.6,8.0,,379
+21,Marseille,Coeur Vauban 40 m2,https://www.booking.com/hotel/fr/coeur-vauban-40-m2.fr.html.html,43.28744849099093,5.369147524812156,8.5,32.0,,380
+21,Marseille,LaFrenchCasa Belsunce,https://www.booking.com/hotel/fr/t2-deco-mediterranee-lafrenchcasa-belsunce.fr.html.html,43.280900893104864,5.375052718528735,7.3,661.0,,381
+21,Marseille,Come&Sleep,https://www.booking.com/hotel/fr/come-amp-sleep.fr.html.html,43.304043786614564,5.384899584567454,6.8,97.0,,382
+21,Marseille,Confort & Calme au Centre de Marseille,https://www.booking.com/hotel/fr/confort-amp-calme-au-centre-de-marseille-marseille.fr.html.html,43.30133201387119,5.389315838767972,7.8,39.0,,383
+21,Marseille,Duplex Vieux Port - Hyper Central & Climatisation,https://www.booking.com/hotel/fr/appartement-neuf-vieux-port.fr.html.html,43.31127318054108,5.380683436554581,8.3,30.0,,384
+21,Marseille,Maisonnette avec jardin piscine non accessible,https://www.booking.com/hotel/fr/maisonnette-recente-avec-piscine.fr.html.html,43.30557714175215,5.366663171286693,8.7,17.0,,385
+21,Marseille,Havre de paix avec piscine & grand jardin 6 pers,https://www.booking.com/hotel/fr/havre-de-paix-avec-piscine-amp-grand-jardin-6-pers.fr.html.html,43.30831353721539,5.366806780091083,,,,386
+21,Marseille,Lévêché - Appartement 2 chambres au cœur du Panier,https://www.booking.com/hotel/fr/leveche-appartement-2-chambres-au-coeur-du-panier.fr.html.html,43.28745568290285,5.379455792063556,,,,387
+21,Marseille,Imhouse2,https://www.booking.com/hotel/fr/imhouse2.fr.html.html,43.28327188175118,5.3595035858307325,,,,388
+21,Marseille,Bel appartement cosy sur Marseille,https://www.booking.com/hotel/fr/bel-appartement-cosy-avec-balcon-sur-marseille.fr.html.html,43.30619889006563,5.354371464525256,,,,389
+21,Marseille,Villa SoleLuna maison d'architecte,https://www.booking.com/hotel/fr/villa-soleluna-maison-d-architecte.fr.html.html,43.308447689570684,5.364137386305631,,,,390
+21,Marseille,Suite SOLELUNA avec jacuzzi privatif dans Villa d'architecte vue mer,https://www.booking.com/hotel/fr/suite-soleluna-avec-jacuzzi-privatif-dans-villa-d-architecte-vue-mer.fr.html.html,43.315794505680024,5.361442059666164,,,,391
+21,Marseille,IMhouse,https://www.booking.com/hotel/fr/imhouse.fr.html.html,43.29267900707645,5.36180482481824,,,,392
+21,Marseille,Le Camas - Bel appart avec terrasse ensoleillée,https://www.booking.com/hotel/fr/le-camas-bel-appart-avec-terrasse-ensoleillee.fr.html.html,43.29105502343171,5.359296810041997,,,,393
+21,Marseille,FLCbm - Large terrace -Belle de Mai- St Charles,https://www.booking.com/hotel/fr/flcbm-large-terrace-belle-de-mai-st-charles.fr.html.html,43.30723081842968,5.3516362275854545,,,,394
+21,Marseille,FLCbm -Grand 4 Chambres- 97M2 - 1km St Charles -,https://www.booking.com/hotel/fr/flcbm-grand-4-chambres-97m2-1km-st-charles.fr.html.html,43.28980644161012,5.350667457389337,,,,395
+21,Marseille,Bel appartement près du vieux port,https://www.booking.com/hotel/fr/bel-appartement-pres-du-vieux-port.fr.html.html,43.31340459302414,5.389461395589441,,,,396
+21,Marseille,FLCbm - European Hospital - Direct Métro - Saint Charles Station,https://www.booking.com/hotel/fr/european-hospital-direct-metro-saint-charles-station.fr.html.html,43.310510810073716,5.367063425349435,,,,397
+21,Marseille,Charmante maison authentique et paisible entre mer et callanques,https://www.booking.com/hotel/fr/charmante-maison-authentique-et-paisible-entre-mer-et-callanques.fr.html.html,43.293334061094995,5.365325565886387,,,,398
+21,Marseille,hôtel des reformés,https://www.booking.com/hotel/fr/des-reformes-marseille5.fr.html.html,43.30620914271166,5.377138391307723,4.0,1.0,,399
+22,Aix en Provence,Studio plein centre Aix-en-Provence,https://www.booking.com/hotel/fr/joli-studio-a-aix-en-provence.fr.html.html,43.54002411496339,5.4362039555146024,9.0,2.0,,400
+22,Aix en Provence,plaisir de vacances,https://www.booking.com/hotel/fr/plaisir-de-vacances-aix-en-provence.fr.html.html,43.51396735475344,5.465472247358009,,,,401
+22,Aix en Provence,"Plein centre d'Aix, bel appartement T2 rénové",https://www.booking.com/hotel/fr/plein-centre-d-aix-bel-appartement-t2-renove.fr.html.html,43.545944516267184,5.458927600576622,,,,402
+22,Aix en Provence,Rare duplex with rooftop terrace,https://www.booking.com/hotel/fr/rare-duplex-with-rooftop-terrace.fr.html.html,43.530052494897916,5.431050240092491,,,,403
+22,Aix en Provence,Aix-en-Provence - studio plein centre ville refait à neuf avec climatisation,https://www.booking.com/hotel/fr/studio-au-centre-d-aix-en-provence-refait-a-neuf.fr.html.html,43.54290069864431,5.444177031031397,,,,404
+22,Aix en Provence,Studio Aix Centre idéal séjour pro & tourisme,https://www.booking.com/hotel/fr/studio-fonctionnel-aix-secteur-roi-rene.fr.html.html,43.52264438404122,5.462638532302487,,,,405
+22,Aix en Provence,Modern City Center apartment with parking!,https://www.booking.com/hotel/fr/modern-city-center-apartment-with-parking.fr.html.html,43.54566332913985,5.465263080891656,,,,406
+22,Aix en Provence,Le Cocon d'Emy,https://www.booking.com/hotel/fr/le-cocon-d-emy.fr.html.html,43.525410467149364,5.446169860449995,8.3,3.0,,407
+22,Aix en Provence,"Villa Cezanne Panorama, City Center on Foot",https://www.booking.com/hotel/fr/villa-cezanne-panorama-city-center-on-foot.fr.html.html,43.51027590605921,5.452010255568428,,,,408
+22,Aix en Provence,"Downtown suite, parking, loggia, elevator, quiet",https://www.booking.com/hotel/fr/downtown-suite-parking-loggia-elevator-quiet.fr.html.html,43.54605767905677,5.434155157843683,10.0,1.0,,409
+22,Aix en Provence,"Le Petit Saint Esprit, centre, calme, lumineux",https://www.booking.com/hotel/fr/le-petit-saint-esprit-centre-calme-lumineux.fr.html.html,43.513493867071446,5.467120545045479,,,,410
+22,Aix en Provence,appartement de charme au coeur d'aix en provence,https://www.booking.com/hotel/fr/appartement-de-charme-au-coeur-d-aix-en-provence.fr.html.html,43.52261494550362,5.436740668055338,,,,411
+22,Aix en Provence,"Aix-en-Provence, Studio rénové au coeur de ville Calme absolu",https://www.booking.com/hotel/fr/aix-en-provence-studio-renove-au-coeur-de-ville-calme-absolu.fr.html.html,43.547844878682035,5.465183070965405,6.0,1.0,,412
+22,Aix en Provence,Appartement Aix centre ville,https://www.booking.com/hotel/fr/suite-centre-ville-historique.fr.html.html,43.5478666858775,5.453459665959695,10.0,2.0,,413
+22,Aix en Provence,Appartement moderne 3 chambres avec parking sécurisée,https://www.booking.com/hotel/fr/appartement-moderne-3-chambres-avec-parking-securisee.fr.html.html,43.532779915524934,5.451783271795154,10.0,1.0,,414
+22,Aix en Provence,L'essentiel - Studio cosy au cœur du centre ville historique d'Aix-en-Provence,https://www.booking.com/hotel/fr/essentiel-studio-cosy-au-coeur-du-centre-ville-historique-d-aix-en-provence.fr.html.html,43.53511588848679,5.44798134044066,,,,415
+22,Aix en Provence,L'Entrecasteaux,https://www.booking.com/hotel/fr/l-39-entrecasteaux.fr.html.html,43.52778022087913,5.436700592468711,7.8,106.0,,416
+22,Aix en Provence,Charmant T2 climatisé à Aix avec terrasse & parking gratuit,https://www.booking.com/hotel/fr/charming-1-bedroom-apartment-in-aix-with-ac-terrace-amp-free-parking.fr.html.html,43.52157083086792,5.43453492128022,,,,417
+22,Aix en Provence,Modern studio Le Renoir - Center of city - WiFi,https://www.booking.com/hotel/fr/modern-studio-le-renoir-center-of-city.fr.html.html,43.5229889818148,5.436293248362807,8.0,2.0,,418
+22,Aix en Provence,Slux Studio 399,https://www.booking.com/hotel/fr/slux-studio-399-aix-en-provence.fr.html.html,43.53674313824308,5.43493133048577,9.5,16.0,,419
+23,Avignon,Brugnotte - Wi-Fi - Proche THEaTRES,https://www.booking.com/hotel/fr/brugnotte-wi-fi-proche-theatres.fr.html.html,43.95934428117751,4.81708457894267,7.6,28.0,,420
+23,Avignon,Appartement intramuros en hyper centre ville,https://www.booking.com/hotel/fr/2-room-apartment-in-the-city-center.fr.html.html,43.96091246174903,4.799906210366669,8.2,56.0,,421
+23,Avignon,Mas de la Digue Provençal elegance in Avignon,https://www.booking.com/hotel/fr/mas-de-la-digue-provencal-elegance-in-avignon.fr.html.html,43.96083402571178,4.788214907062536,,,,422
+23,Avignon,Charmant T2 - Centre ville Avignon,https://www.booking.com/hotel/fr/charmant-t2-centre-ville-avignon.fr.html.html,43.93289754412194,4.824665305205633,,,,423
+23,Avignon,Appartement Cosy & Lumineux,https://www.booking.com/hotel/fr/appartement-cosy-amp-lumineux.fr.html.html,43.9490261121881,4.821252635398537,,,,424
+23,Avignon,La Scène - Lumineux - Cœur Avignon,https://www.booking.com/hotel/fr/appartement-cosy-au-coeur-d-avignon-intramuros.fr.html.html,43.931551650400664,4.823011291327808,,,,425
+23,Avignon,Appartement hôtel particulier,https://www.booking.com/hotel/fr/appartement-particulier-avignon.fr.html.html,43.95123045529295,4.825697512905857,,,,426
+23,Avignon,"Studio moderne, centre-ville d'Avignon",https://www.booking.com/hotel/fr/studio-moderne-centre-ville-d-avignon.fr.html.html,43.946910520054935,4.792857009968779,,,,427
+23,Avignon,L' Andréa CLIM Free Parking WiFi Smart TV,https://www.booking.com/hotel/fr/andrea-clim-free-parking-wifi-smart-tv.fr.html.html,43.96475746731033,4.8017508807561065,,,,428
+23,Avignon,Studio fonctionnel en centre-ville,https://www.booking.com/hotel/fr/studio-fonctionnel-en-centre-ville.fr.html.html,43.94328590050208,4.816230739028164,,,,429
+23,Avignon,Studio Design & Cosy - Hyper centre intra-muros,https://www.booking.com/hotel/fr/studio-design-amp-cosy-hyper-centre-intra-muros.fr.html.html,43.9339319806571,4.813742024722152,,,,430
+23,Avignon,L'intrAMOURos,https://www.booking.com/hotel/fr/intramouros.fr.html.html,43.93496896728211,4.792057036253595,10.0,1.0,,431
+23,Avignon,Charmante maison de ville avec jardin et piscine Avignon,https://www.booking.com/hotel/fr/charmante-maison-de-ville-avec-jardin-et-piscine-avignon.fr.html.html,43.959709725268695,4.818534524999625,,,,432
+23,Avignon,Maison Flammarion - Welkeys,https://www.booking.com/hotel/fr/maison-flammarion-welkeys.fr.html.html,43.953978022532645,4.794878822873467,,,,433
+23,Avignon,Loge du Palais-Clim-Proche centre et transports,https://www.booking.com/hotel/fr/loge-du-palais-clim-proche-centre-et-transports.fr.html.html,43.93329420704491,4.794853904592905,,,,434
+23,Avignon,Soleil Provençal - Avec piscine privée,https://www.booking.com/hotel/fr/soleil-provencal-avec-piscine-privee.fr.html.html,43.9326135722446,4.8073801769157365,,,,435
+23,Avignon,Private parking - AC - Secure residence,https://www.booking.com/hotel/fr/private-parking-ac-secure-residence.fr.html.html,43.95728806525836,4.809618797393668,,,,436
+23,Avignon,City center - Heart of the city,https://www.booking.com/hotel/fr/city-center-heart-of-the-city.fr.html.html,43.93215982025457,4.809104648313513,,,,437
+23,Avignon,Cinéma Provence,https://www.booking.com/hotel/fr/cinema-provence.fr.html.html,43.96212370237161,4.78956067349591,10.0,3.0,,438
+23,Avignon,Urbain V face du palais,https://www.booking.com/hotel/fr/urbain-v-avignon.fr.html.html,43.95749898908626,4.820999634505215,10.0,1.0,,439
+24,Uzes,Chambre Uzétienne,https://www.booking.com/hotel/fr/chambre-uzetienne.fr.html.html,43.99538185122568,4.410295801703548,,,,440
+24,Uzes,Le tipi d'Hamih,https://www.booking.com/hotel/fr/le-tipi-d-hamih-uzes.fr.html.html,43.99552140856341,4.404852396851312,,,,441
+24,Uzes,Maison Baronne Uzès,https://www.booking.com/hotel/fr/maison-baronne-uzes.fr.html.html,44.03159348314005,4.435221723194759,,,,442
+24,Uzes,Hypercentre - 85m2 - 2 salles de bain - cour privée,https://www.booking.com/hotel/fr/appartement-d-exception-au-coeur-d-uzes.fr.html.html,44.00709873183025,4.43789785992919,,,,443
+24,Uzes,Appartement climatisé avec piscine et parking à Uzès,https://www.booking.com/hotel/fr/appartement-climatise-avec-piscine-et-parking-a-uzes.fr.html.html,44.00695358588268,4.434156904690617,,,,444
+24,Uzes,Chambres d'hôte Le Mas Laurent,https://www.booking.com/hotel/fr/chambres-d-hote-le-mas-laurent.fr.html.html,44.0246398826903,4.4320524429889945,,,,445
+24,Uzes,Appartement avec clim et parking à Uzès,https://www.booking.com/hotel/fr/appartement-avec-clim-et-parking-a-uzes.fr.html.html,44.03001784309536,4.425881479225561,,,,446
+24,Uzes,3 Bedroom Lovely Apartment In Uzès,https://www.booking.com/hotel/fr/3-bedroom-lovely-apartment-in-uzes.fr.html.html,44.03156794255292,4.421706094824366,,,,447
+24,Uzes,Provencal Villa with Garden & Pool,https://www.booking.com/hotel/fr/provencal-villa-with-garden-pool.fr.html.html,44.02226302741036,4.403151270396456,,,,448
+24,Uzes,Heated Pool Apartment in Uzes,https://www.booking.com/hotel/fr/heated-pool-apartment-in-uzes.fr.html.html,44.00717828342124,4.416009928522827,,,,449
+24,Uzes,Une chambre à louer dans une maison au centre ville Uzes,https://www.booking.com/hotel/fr/individuel-home.fr.html.html,43.99546792866795,4.4145793406804925,8.0,4.0,,450
+24,Uzes,Appartement avec Terrasse et parking en centre ville d'Uzès,https://www.booking.com/hotel/fr/appartement-avec-terrasse-et-parking-en-centre-ville-d-uzes-uzes.fr.html.html,44.0232137766371,4.4100619513504125,,,,451
+24,Uzes,La Loggia d'Uzès,https://www.booking.com/hotel/fr/la-loggia-d-uzes.fr.html.html,44.01446406998944,4.428608604547543,8.8,9.0,,452
+24,Uzes,Serenity Uzès - Studio,https://www.booking.com/hotel/fr/serenity-and-comfort-at-the-centre-d-uzes-studio.fr.html.html,44.00909678036988,4.419506829403151,10.0,8.0,,453
+24,Uzes,Heure Bleue Uzès Villa d'antiquaire 160 m2 Suites et Jardin,https://www.booking.com/hotel/fr/villa-heure-bleue-uzes-suites-et-jardin.fr.html.html,44.02838207540379,4.402913648636305,,,,454
+24,Uzes,"Appartement 2 pièces, terrasse",https://www.booking.com/hotel/fr/appartement-2-pieces-terrasse-uzes.fr.html.html,43.99657579929225,4.4084791280779925,10.0,2.0,,455
+24,Uzes,"La suite Kyoto, appartement privé Uzès",https://www.booking.com/hotel/fr/la-suite-kyoto-appartement-prive-uzes.fr.html.html,44.01183290417164,4.427002150546383,9.5,17.0,,456
+24,Uzes,A fleur de rue appartement climatisé Uzès centre,https://www.booking.com/hotel/fr/a-fleur-de-rue.fr.html.html,43.9925820457907,4.402717034379612,9.4,12.0,,457
+24,Uzes,Uzès centre à 2 min - piscine - clim - parking,https://www.booking.com/hotel/fr/uzes-centre-a-2-min-piscine-clim-parking.fr.html.html,44.010874325679765,4.433720076561951,8.3,16.0,,458
+24,Uzes,La Maison des Rêves,https://www.booking.com/hotel/fr/dream-house-uzes.fr.html.html,43.994380031027276,4.419477661080559,10.0,1.0,,459
+25,Nimes,L'Arche Nîmoise - Coeur historique,https://www.booking.com/hotel/fr/arche-nimoise.fr.html.html,43.82217761665073,4.359292163093066,,,,460
+25,Nimes,Godin P3p,https://www.booking.com/hotel/fr/godin-p3p.fr.html.html,43.82212594987109,4.363765011386381,,,,461
+25,Nimes,Casa Némausa,https://www.booking.com/hotel/fr/casa-nemausa.fr.html.html,43.84339331208464,4.373055938637006,10.0,1.0,,462
+25,Nimes,160m Bright Flat in Central Nîmes,https://www.booking.com/hotel/fr/160m-bright-flat-in-central-nimes.fr.html.html,43.84726669517062,4.353981068316088,,,,463
+25,Nimes,La cigale et la fourmi,https://www.booking.com/hotel/fr/la-cigale-et-la-fourmi-nimes.fr.html.html,43.840759650603886,4.3671893461023625,9.2,507.0,,464
+25,Nimes,La Maison de la Fontaine - Jacuzzi and Pétanque,https://www.booking.com/hotel/fr/la-maison-de-la-fontaine-jacuzzi-and-petanque.fr.html.html,43.85591180193899,4.362697978559832,,,,465
+25,Nimes,studio city center parking clim wifi bathroom,https://www.booking.com/hotel/fr/studio-city-center-parking-clim-wifi-bathtub.fr.html.html,43.83241972318095,4.350749830806777,,,,466
+25,Nimes,Le Nimea - Plein Centre - Visit Nîmes on foot,https://www.booking.com/hotel/fr/le-nimea-plein-centre-visit-nimes-on-foot.fr.html.html,43.828853383451275,4.375213899454207,,,,467
+25,Nimes,Le cocon de Ventabren,https://www.booking.com/hotel/fr/le-cocon-de-ventabren.fr.html.html,43.85216886512758,4.371965740864278,,,,468
+25,Nimes,"Le Nid Douillet, proche centre-ville et université",https://www.booking.com/hotel/fr/le-nid-douillet-studio-proche-centre-ville.fr.html.html,43.82636873354078,4.366406773386338,,,,469
+25,Nimes,Duplex sur les toits 3 voyageurs,https://www.booking.com/hotel/fr/duplex-sur-les-toits-3-voyageurs.fr.html.html,43.85595380157763,4.37409196916377,,,,470
+25,Nimes,Bohème Nîmes Gard,https://www.booking.com/hotel/fr/boheme-nimes-gard.fr.html.html,43.81791107898759,4.374760468038392,,,,471
+25,Nimes,studio centre ville Nîmes,https://www.booking.com/hotel/fr/studio-centre-ville-nimes-nimes.fr.html.html,43.856220053068306,4.368403219068601,,,,472
+25,Nimes,Auberge l'hospitalité,https://www.booking.com/hotel/fr/auberge-l-hospitalite.fr.html.html,43.819151296478026,4.373549233134547,,,,473
+25,Nimes,Duplex climatisé avec terrasse sans vis à vis dans l'hypercentre,https://www.booking.com/hotel/fr/duplex-climatise-avec-terrasse-sans-vis-a-vis-dans-l-hypercentre.fr.html.html,43.853070624547925,4.367967558466772,,,,474
+25,Nimes,Le Cocon du Golf,https://www.booking.com/hotel/fr/le-cocon-du-golf.fr.html.html,43.83853294436346,4.367274330870412,,,,475
+25,Nimes,Le Quai Nîmois Climatisé Au pied de la Gare,https://www.booking.com/hotel/fr/le-quai-nimois-climatise-au-pied-de-la-gare.fr.html.html,43.857143491844774,4.364813155128608,,,,476
+25,Nimes,"Cocon de l'écusson, 3 chambres avec clim",https://www.booking.com/hotel/fr/cocon-de-l-ecusson-3-chambres-avec-clim.fr.html.html,43.82037676258942,4.370177365582306,,,,477
+25,Nimes,Opera-style apartment Downtown Maison Carré,https://www.booking.com/hotel/fr/opera-style-apartment-downtown-maison-carre.fr.html.html,43.83957907137606,4.346412904211723,,,,478
+25,Nimes,Mazet With Pool In Nîmes Garrigue,https://www.booking.com/hotel/fr/mazet-with-pool-in-nimes-garrigue.fr.html.html,43.85619700142477,4.375303530367957,,,,479
+26,Aigues Mortes,Bungalow Aigues Mortes,https://www.booking.com/hotel/fr/bungalow-aigues-mortes.fr.html.html,43.5670760137668,4.2064137411098095,,,,480
+26,Aigues Mortes,Love Room médiévale avec balnéo 32 jets & lit rond,https://www.booking.com/hotel/fr/love-room-medievale-avec-balneo-32-jets-amp-lit-rond.fr.html.html,43.571328045525405,4.172709891321382,,,,481
+26,Aigues Mortes,Fleur de Camargue,https://www.booking.com/hotel/fr/fleur-de-camargue.fr.html.html,43.57398204755938,4.20457267002259,,,,482
+26,Aigues Mortes,Chez Marie & Nico,https://www.booking.com/hotel/fr/chez-marie-amp-nico.fr.html.html,43.564333742590705,4.176694794698937,,,,483
+26,Aigues Mortes,Studio de charme,https://www.booking.com/hotel/fr/studio-de-charme-aigues-mortes.fr.html.html,43.57125442320336,4.184944754170366,,,,484
+26,Aigues Mortes,La Parenthèse de Victoire,https://www.booking.com/hotel/fr/la-parenthese-de-victoire.fr.html.html,43.56952467247692,4.201280330251664,,,,485
+26,Aigues Mortes,Duplex Aura - Confort et charme à Aigues-Mortes,https://www.booking.com/hotel/fr/duplex-aura-confort-et-charme-a-aigues-mortes.fr.html.html,43.58219842041964,4.177970395841932,10.0,5.0,,486
+26,Aigues Mortes,Appartement confortable à Aigues-Mortes – 30 m²,https://www.booking.com/hotel/fr/appartement-confortable-a-aigues-mortes-30-m2.fr.html.html,43.54796995521365,4.204258680964762,8.0,1.0,,487
+26,Aigues Mortes,La Salicorne,https://www.booking.com/hotel/fr/la-salicorne-aigues-mortes1.fr.html.html,43.557390627583686,4.20482536711831,10.0,1.0,,488
+26,Aigues Mortes,Chez Louise et Léo,https://www.booking.com/hotel/fr/chez-louise-et-leo.fr.html.html,43.58416855936306,4.191838709350433,,,,489
+26,Aigues Mortes,Chez Elsa et Camille,https://www.booking.com/hotel/fr/chez-elsa-et-camille.fr.html.html,43.58176265135563,4.171795434868673,9.0,2.0,,490
+26,Aigues Mortes,Villa des Arches,https://www.booking.com/hotel/fr/villa-des-arches.fr.html.html,43.56437837011143,4.183021525326996,,,,491
+26,Aigues Mortes,Appartement confortable à Aigues-Mortes de 60 m²,https://www.booking.com/hotel/fr/appartement-confortable-a-aigues-mortes-de-60-m2.fr.html.html,43.57095740391206,4.19621707673503,,,,492
+26,Aigues Mortes,"Studio cosy avec jardin à Aigues-Mortes, 25 m²",https://www.booking.com/hotel/fr/studio-cosy-avec-jardin-a-aigues-mortes-25-m2.fr.html.html,43.55724734731924,4.210787447121096,,,,493
+26,Aigues Mortes,Appartement cosy avec vue sur remparts à Aigues-Mortes,https://www.booking.com/hotel/fr/appartement-cosy-avec-vue-sur-remparts-a-aigues-mortes.fr.html.html,43.55367694638895,4.196812541080667,,,,494
+26,Aigues Mortes,Appartement cosy Aigues-Mortes centre 4 pers,https://www.booking.com/hotel/fr/appartement-cosy-aigues-mortes-centre-4-pers.fr.html.html,43.56470003619759,4.181932143242566,9.6,16.0,,495
+26,Aigues Mortes,l'écrin de Bali,https://www.booking.com/hotel/fr/ecrin-de-bali.fr.html.html,43.56028618912104,4.196900228123984,9.3,23.0,,496
+26,Aigues Mortes,Escapade en Camargue Climatisé Terrasse Calme,https://www.booking.com/hotel/fr/escapade-en-camargue-climatise-terrasse-calme.fr.html.html,43.569498344474034,4.193139415188634,10.0,2.0,,497
+26,Aigues Mortes,Notre cocon des remparts,https://www.booking.com/hotel/fr/notre-cocon-des-remparts.fr.html.html,43.549261485478596,4.202733815806045,9.0,63.0,,498
+26,Aigues Mortes,Maison de vacances en Camargue,https://www.booking.com/hotel/fr/maison-de-vacances-en-camargue-aigues-mortes.fr.html.html,43.585127892306645,4.175819225553078,10.0,2.0,,499
+27,Saintes Maries de la mer,Jolie maisonnette à proximité de toutes commodités,https://www.booking.com/hotel/fr/jolie-maisonnette-a-proximite-de-toutes-commodites.fr.html.html,43.47104062977918,4.438161316100081,8.6,26.0,,500
+27,Saintes Maries de la mer,"Appartement Le Méditerranéen à 300m de la plage, 3 animaux acceptés",https://www.booking.com/hotel/fr/appartement-andie-camargue.fr.html.html,43.45951866856079,4.429370863147045,9.5,24.0,,501
+27,Saintes Maries de la mer,Location Luccini,https://www.booking.com/hotel/fr/location-luccini.fr.html.html,43.453036054653765,4.44623988015436,,,,502
+27,Saintes Maries de la mer,Le VILLAJOUN,https://www.booking.com/hotel/fr/la-mar.fr.html.html,43.44397330465145,4.421395086641548,,,,503
+27,Saintes Maries de la mer,Chez Loulou,https://www.booking.com/hotel/fr/chez-loulou-les-saintes-maries-de-la-mer.fr.html.html,43.46414400078828,4.433025075725358,,,,504
+27,Saintes Maries de la mer,Roulotte au coeur de la Camargue,https://www.booking.com/hotel/fr/roulotte-au-coeur-de-la-camargue.fr.html.html,43.45898144690216,4.445001324220401,,,,505
+27,Saintes Maries de la mer,En bord de mer,https://www.booking.com/hotel/fr/en-bord-de-mer-saintes-maries-de-la-mer.fr.html.html,43.4380968775738,4.411820589119627,,,,506
+27,Saintes Maries de la mer,Le Sauvage,https://www.booking.com/hotel/fr/le-sauvage-les-saintes-maries-de-la-mer.fr.html.html,43.46802928737976,4.445209339489458,9.5,8.0,,507
+27,Saintes Maries de la mer,Maison avec vue sur la Camargue sauvage,https://www.booking.com/hotel/fr/maison-avec-vue-sur-la-camargue-sauvage.fr.html.html,43.464493689716925,4.435235628892033,,,,508
+27,Saintes Maries de la mer,Chambre bohème,https://www.booking.com/hotel/fr/chambre-boheme-saintes-maries-de-la-mer.fr.html.html,43.46958419653168,4.410433682364207,,,,509
+27,Saintes Maries de la mer,Le Boumian,https://www.booking.com/hotel/fr/le-boumian.fr.html.html,43.460620980335534,4.419758742677873,,,,510
+27,Saintes Maries de la mer,Maison charmante avec piscine à Saintes-Maries-de-la-Mer,https://www.booking.com/hotel/fr/maison-charmante-avec-piscine-a-saintes-maries-de-la-mer.fr.html.html,43.45612880783743,4.4360470835458115,7.0,1.0,,511
+27,Saintes Maries de la mer,"Evasion camarguaise entre mer et traditions, T2 climatisé",https://www.booking.com/hotel/fr/evasion-camarguaise-entre-mer-et-traditions-t2-climatise.fr.html.html,43.44832192145162,4.410414224058751,,,,512
+27,Saintes Maries de la mer,Petite marie,https://www.booking.com/hotel/fr/petite-marie.fr.html.html,43.46890133933416,4.431007018407051,7.5,2.0,,513
+27,Saintes Maries de la mer,Villa Candilou Saintes Maries de la Mer,https://www.booking.com/hotel/fr/villa-candilou-saintes-maries-de-la-mer.fr.html.html,43.46623475558002,4.421555522278119,9.0,24.0,,514
+27,Saintes Maries de la mer,Appartement - 4 chambres - piscine collective- place de parking privée (garage),https://www.booking.com/hotel/fr/appartement-4-chambres-piscine-collective-place-de-parking-privee-garage.fr.html.html,43.43340094680425,4.432556820710699,,,,515
+27,Saintes Maries de la mer,Grand appartement lumineux proche plage Parking privé inclus,https://www.booking.com/hotel/fr/appartement-50m2-parking-prive-local-velo-6-min-mer-saintes-maries.fr.html.html,43.43264687897989,4.409549881352501,9.1,7.0,,516
+27,Saintes Maries de la mer,Appartement - piscine collective - terrasse - place de parking,https://www.booking.com/hotel/fr/appartement-piscine-collective-terrasse-place-de-parking.fr.html.html,43.446650734675124,4.442581672246096,,,,517
+27,Saintes Maries de la mer,Le Duplex Camarguais,https://www.booking.com/hotel/fr/studio-saintes-maries-de-la-mer.fr.html.html,43.464014333231276,4.446659758767097,5.3,4.0,,518
+27,Saintes Maries de la mer,Impérial Saintes Maries de la Mer,https://www.booking.com/hotel/fr/imperial-saintes-maries-de-la-mer.fr.html.html,43.4710832451726,4.446475314211428,7.5,39.0,,519
+28,Collioure,Les 3 Pins,https://www.booking.com/hotel/fr/les-3-pins-collioure.fr.html.html,42.511066675644145,3.093141473269717,,,,520
+28,Collioure,3PSD7 - Appartement au coeur du Faubourg à Collioure,https://www.booking.com/hotel/fr/3psd7-appartement-au-coeur-du-faubourg-a-collioure.fr.html.html,42.528815228614086,3.068358849605225,,,,521
+28,Collioure,Appartement Climatisé Familial avec Parking à Collioure - FR-1-309-550,https://www.booking.com/hotel/fr/appartement-climatise-familial-avec-parking-a-collioure-fr-1-309-550.fr.html.html,42.52028563426524,3.0934859278371607,,,,522
+28,Collioure,Le Treillou,https://www.booking.com/hotel/fr/le-treillou.fr.html.html,42.54384657591258,3.064138876658352,,,,523
+28,Collioure,Résidence Les Balcons de Collioure - maeva Home - Appartement bord de mer 2 pièces 4 personnes - Sélection MAE-0873,https://www.booking.com/hotel/fr/residence-les-balcons-de-collioure-maeva-home-appartement-bord-de-mer-2-pieces-4.fr.html.html,42.53873475692543,3.0640403420611597,,,,524
+28,Collioure,"Beau studio avec parking, piscine, balcon vue mer et climatisation a 500 m a pied des plages et du centre",https://www.booking.com/hotel/fr/beau-studio-avec-parking-piscine-balcon-vue-mer-et-climatisation.fr.html.html,42.538583148188444,3.0760998087659814,,,,525
+28,Collioure,"Ground floor near center whith Balcony, Air conditioning, Parking",https://www.booking.com/hotel/fr/ground-floor-near-center-whith-balcony-air-conditioning-parking.fr.html.html,42.5237977263918,3.0827011276161866,,,,526
+28,Collioure,Villa Impériale bord de Mer hauteur de Collioure,https://www.booking.com/hotel/fr/villa-imperiale-bord-de-mer-hauteur-de-collioure.fr.html.html,42.52164278009351,3.0939716967123116,,,,527
+28,Collioure,La Casa Machado 2,https://www.booking.com/hotel/fr/la-casa-machado-2.fr.html.html,42.51598628287723,3.09048721506426,9.7,37.0,,528
+28,Collioure,Appartement typique,https://www.booking.com/hotel/fr/appartement-typique-collioure.fr.html.html,42.50730501986604,3.0809915082550696,,,,529
+28,Collioure,Maison sur les hauteurs de Collioure,https://www.booking.com/hotel/fr/maison-sur-les-hauteurs-de-collioure.fr.html.html,42.5396388950502,3.0741004666512666,,,,530
+28,Collioure,Pleasant beachfront apartment,https://www.booking.com/hotel/fr/pleasant-beachfront-apartment.fr.html.html,42.537566040365206,3.103040380006308,,,,531
+28,Collioure,Maison de village proche de la plage,https://www.booking.com/hotel/fr/maison-de-village-proche-de-la-plage.fr.html.html,42.54503870693144,3.0802026520894388,,,,532
+28,Collioure,"Centre historique, 50 m plage, Calme, Clim, Wifi",https://www.booking.com/hotel/fr/centre-historique-50-m-plage-calme-clim-wifi.fr.html.html,42.54491547348296,3.081210880973187,9.0,1.0,,533
+28,Collioure,Collioure,https://www.booking.com/hotel/fr/collioure-collioure3.fr.html.html,42.52726726822411,3.0697003528476667,,,,534
+28,Collioure,"My Collioure La Parenthèse - Sauna, Spa and Beach",https://www.booking.com/hotel/fr/my-collioure-la-parenthese-sauna-spa-and-beach.fr.html.html,42.53580949660722,3.094947781949997,,,,535
+28,Collioure,Le reve bleu,https://www.booking.com/hotel/fr/le-reve-bleu-collioure.fr.html.html,42.5428406291953,3.0909026890312594,,,,536
+28,Collioure,"My Collioure - La Suite - Sauna, Spa & Beach",https://www.booking.com/hotel/fr/my-collioure-la-suite-sauna-spa-amp-beach.fr.html.html,42.539035895627094,3.0719861845115504,8.0,3.0,,537
+28,Collioure,Charmant Studio près de la Plage,https://www.booking.com/hotel/fr/charmant-studio-pres-de-la-plage-collioure.fr.html.html,42.514943924069726,3.0664506418246336,8.4,11.0,,538
+28,Collioure,2PA80 - studio dans résidence avec piscine,https://www.booking.com/hotel/fr/2pa80-joli-studio-avec-piscine.fr.html.html,42.5230717654124,3.0903753720829883,,,,539
+29,Carcassonne,"La Jasso Hôtel, Maison de Famille",https://www.booking.com/hotel/fr/la-jasso-maison-de-famille.fr.html.html,43.19820217660606,2.3552873485712458,9.8,39.0,,540
+29,Carcassonne,Appartement 4 voyageurs avec terrasse et WIFI - Proche Cité Médiévale,https://www.booking.com/hotel/fr/appartement-2-voyageurs-avec-terrasse-et-wifi.fr.html.html,43.23119784109035,2.340037281079929,7.1,25.0,,541
+29,Carcassonne,Résidence Le Petit Duc,https://www.booking.com/hotel/fr/residence-le-petit-duc-carcassonne.fr.html.html,43.21728278537803,2.367141442490017,,,,542
+29,Carcassonne,Air-conditioned 2 bedroom apartment with Terrace Parking Carcassonne,https://www.booking.com/hotel/fr/air-conditioned-2-bedroom-apartment-with-terrace-parking-carcassonne.fr.html.html,43.202181512220136,2.3351492156712363,,,,543
+29,Carcassonne,La Lodge des Remparts View and Private Patio,https://www.booking.com/hotel/fr/la-lodge-des-remparts-view-and-private-patio.fr.html.html,43.219903827376235,2.346400292041704,,,,544
+29,Carcassonne,chambre et table d'hôtes Au coin de la cité 2,https://www.booking.com/hotel/fr/au-coin-de-la-cite.fr.html.html,43.217760929618315,2.366851536806704,,,,545
+29,Carcassonne,Loveroom - Spa - Sauna - Privatif - Escape Game - Terrasse,https://www.booking.com/hotel/fr/loveroom-spa-sauna-privatif-escape-game-terrasse.fr.html.html,43.207362308721315,2.345895992677045,1.0,1.0,,546
+29,Carcassonne,Peaceful & Elegant Retreat in the heart of town,https://www.booking.com/hotel/fr/peaceful-amp-elegant-retreat-in-the-heart-of-town.fr.html.html,43.19757810368799,2.3546479379065635,,,,547
+29,Carcassonne,Charming Elegant Suite - Downtown - AF,https://www.booking.com/hotel/fr/charming-elegant-suite-downtown-af.fr.html.html,43.21989872782371,2.345010675918512,,,,548
+29,Carcassonne,Au Pied de la Cité - Terrasse - Climatisation - Wifi,https://www.booking.com/hotel/fr/au-pied-de-la-cite-terrasse-climatisation-wifi.fr.html.html,43.21384810803615,2.340075508093947,8.2,10.0,,549
+29,Carcassonne,"Charming studio with sofa, bed and terrace-AS",https://www.booking.com/hotel/fr/charming-studio-with-sofa-bed-and-terrace-as.fr.html.html,43.22392853566942,2.3684660059183935,10.0,1.0,,550
+29,Carcassonne,La maison des herissons,https://www.booking.com/hotel/fr/la-maison-des-herissons.fr.html.html,43.21384234004448,2.345480260252602,,,,551
+29,Carcassonne,Le Soleil du pont vieux - Appartement avec terrasse - Wi-Fi - Proche cité médiévale,https://www.booking.com/hotel/fr/le-soleil-du-pont-vieux-appartement-avec-terrasse-wi-fi-proche-cite-medievale.fr.html.html,43.227123060012744,2.3648708681471655,5.1,7.0,,552
+29,Carcassonne,Liberté 38 - Close to Station and City Center,https://www.booking.com/hotel/fr/liberte-38-close-to-station-and-city-center.fr.html.html,43.215112073550976,2.338305084235644,,,,553
+29,Carcassonne,Entre Pierres et Soleil - Vue cité,https://www.booking.com/hotel/fr/entre-pierres-et-soleil-vue-cite.fr.html.html,43.21547331886141,2.3376310881610034,,,,554
+29,Carcassonne,Le 86 - Appartement pour 6 personnes,https://www.booking.com/hotel/fr/le-86-appartement-pour-6-personnes.fr.html.html,43.228101944106335,2.3303522633153806,3.0,1.0,,555
+29,Carcassonne,Le Repère du Gentleman,https://www.booking.com/hotel/fr/le-repere-du-gentleman-carcassonne1.fr.html.html,43.209175114648495,2.3551735730150356,,,,556
+29,Carcassonne,L'echappee Belle,https://www.booking.com/hotel/fr/echappee-belle-carcassonne1.fr.html.html,43.19839640913803,2.3438479537489507,,,,557
+29,Carcassonne,Cosy Traditional Old Stone Townhouse in Bastide,https://www.booking.com/hotel/fr/cosy-traditional-old-stone-townhouse-in-bastide.fr.html.html,43.194187107052535,2.3636812299935857,,,,558
+29,Carcassonne,Terrasse et parking a 500m de la Cite AR,https://www.booking.com/hotel/fr/terrasse-et-parking-a-500m-de-la-cite-ar.fr.html.html,43.223241290226944,2.3480352962676627,,,,559
+30,Ariege,Authentique maison de famille Ariègeoise,https://www.booking.com/hotel/fr/authentique-maison-de-famille-ariegeoise.fr.html.html,42.95034918205414,1.425282137116589,,,,560
+30,Ariege,"Les Gîtes de Montbel, nestled in nature",https://www.booking.com/hotel/fr/les-gites-de-montbel-nestled-in-nature.fr.html.html,42.95369999072397,1.393975420628125,,,,561
+30,Ariege,Grande Maison De Village,https://www.booking.com/hotel/fr/grande-maison-de-village-cazavet.fr.html.html,42.934055366460356,1.4212993267182246,,,,562
+30,Ariege,Maison de village,https://www.booking.com/hotel/fr/maison-de-village-montferrier.fr.html.html,42.93099165902347,1.4176182741116699,,,,563
+30,Ariege,Chalet Confortable avec Terrasse - 5 pers - API-1-52-1957,https://www.booking.com/hotel/fr/chalet-confortable-avec-terrasse-5-pers-api-1-52-1957.fr.html.html,42.926118586626714,1.4173912737857621,,,,564
+30,Ariege,Chalet 6 pers avec Terrasse & Jardin - API-1-52-1952,https://www.booking.com/hotel/fr/chalet-6-pers-avec-terrasse-jardin-api-1-52-1952.fr.html.html,42.93956030235226,1.4203457291246755,,,,565
+30,Ariege,Mobil-home cosy pour 2 à Pamiers - API-1-52-1959,https://www.booking.com/hotel/fr/mobil-home-cosy-pour-2-a-pamiers-api-1-52-1959.fr.html.html,42.94913350747419,1.41699535963772,,,,566
+30,Ariege,Mobil-Home Confort 4 Pers. à Pamiers - API-1-52-1960,https://www.booking.com/hotel/fr/mobil-home-confort-4-pers-a-pamiers-api-1-52-1960.fr.html.html,42.94122656180399,1.4116032128652567,,,,567
+30,Ariege,"Mobil-home à Pamiers, 4 Pers, 2 Ch, Terrasse - API-1-52-1950",https://www.booking.com/hotel/fr/mobil-home-a-pamiers-4-pers-2-ch-terrasse-api-1-52-1950.fr.html.html,42.94303579688095,1.3918041951072957,,,,568
+30,Ariege,La Bulle d'Ax,https://www.booking.com/hotel/fr/la-bulle-d-ax.fr.html.html,42.96170314777975,1.3878554471796503,,,,569
+30,Ariege,L'Escapade à Foix - Cœur historique & Apaisant,https://www.booking.com/hotel/fr/escapade-a-foix-coeur-historique-amp-apaisant.fr.html.html,42.93946701868093,1.4233883139126275,10.0,2.0,,570
+30,Ariege,Les Bosquitos Chalet,https://www.booking.com/hotel/fr/les-bosquitos-chalet.fr.html.html,42.94609637956639,1.4112204125808296,,,,571
+30,Ariege,"Mobil-Home 6 Pers, Terrasse - API-1-52-1638",https://www.booking.com/hotel/fr/mobil-home-6-pers-terrasse-api-1-52-1638.fr.html.html,42.95688292050964,1.4184158916390472,,,,572
+30,Ariege,Maison Typique De Montagne,https://www.booking.com/hotel/fr/maison-typique-de-montagne.fr.html.html,42.94139851129285,1.4058152940605022,,,,573
+30,Ariege,Les Gîtes d'Altaïr,https://www.booking.com/hotel/fr/les-gites-d-altair.fr.html.html,42.95042026800911,1.3912467275584959,,,,574
+30,Ariege,"Charmant T2 pour 4 - centre Ax, cure et télécabine",https://www.booking.com/hotel/fr/charmant-t2-pour-4-centre-ax-cure-et-telecabine.fr.html.html,42.96003134834987,1.3915618316881022,,,,575
+30,Ariege,Domaine de Grave,https://www.booking.com/hotel/fr/domaine-de-grave.fr.html.html,42.963517624946306,1.413977011489159,,,,576
+30,Ariege,Chambres les 4 saisons,https://www.booking.com/hotel/fr/les-4-saisons-oust1.fr.html.html,42.931419739237164,1.4037666357959786,8.0,4.0,,577
+30,Ariege,2 appartements cosys en plein cœur de Varilhes,https://www.booking.com/hotel/fr/2-appartements-cosys-en-plein-coeur-de-varilhes.fr.html.html,42.96260030500646,1.3945753890680135,8.0,1.0,,578
+30,Ariege,"Duplex cosy à Mirepoix centre, tout confort",https://www.booking.com/hotel/fr/duplex-cosy-a-mirepoix-centre-tout-confort.fr.html.html,42.94522145172318,1.4062181818696575,8.0,1.0,,579
+31,Toulouse,L'impérial - Magnifique Studio proche Gare,https://www.booking.com/hotel/fr/imperial-magnifique-studio-proche-gare.fr.html.html,43.59479357553196,1.4268116574830052,,,,580
+31,Toulouse,LRdD TST,https://www.booking.com/hotel/fr/lrdd-tst.fr.html.html,43.602829230249526,1.4475221560765759,,,,581
+31,Toulouse,Apartment in Toulouse,https://www.booking.com/hotel/fr/apartment-in-toulouse-toulouse1.fr.html.html,43.62366510301142,1.4350030361774038,,,,582
+31,Toulouse,Maison de ville moderne avec parking,https://www.booking.com/hotel/fr/modern-townhouse-with-parking.fr.html.html,43.60416852375971,1.4561456640254875,,,,583
+31,Toulouse,L'Instant Saint Michel - Toulouse Center,https://www.booking.com/hotel/fr/instant-saint-michel-toulouse-center.fr.html.html,43.5976138644115,1.4366577783569427,,,,584
+31,Toulouse,Ariane - 4-6p - Near Spacial Center & Metro,https://www.booking.com/hotel/fr/ariane-4-6p-near-spacial-center-metro.fr.html.html,43.60979983417267,1.442452105963272,,,,585
+31,Toulouse,La Business Class - Standing - Tramway - Parking,https://www.booking.com/hotel/fr/la-business-class-standing-tramway-parking.fr.html.html,43.59406962475113,1.424708121596324,,,,586
+31,Toulouse,Chambre Premium Métro au pied Confort hôtel Tlse,https://www.booking.com/hotel/fr/chambre-premium-metro-au-pied-confort-tlse.fr.html.html,43.587498333124344,1.4271411755117822,,,,587
+31,Toulouse,Logis de Sainte-Scarbes,https://www.booking.com/hotel/fr/logis-de-sainte-scarbes.fr.html.html,43.589618988876424,1.4399430422562673,8.7,27.0,,588
+31,Toulouse,Studio cosy au coeur du quartier Saint Michel,https://www.booking.com/hotel/fr/studio-cosy-au-coeur-du-quartier-saint-michel.fr.html.html,43.58958563355831,1.4434408533886849,,,,589
+31,Toulouse,"Spacieux T5 Toulouse nord - parking, fibre & calme",https://www.booking.com/hotel/fr/spacieux-t5-toulouse-nord-parking-fibre-amp-calme.fr.html.html,43.59053990774049,1.4482441219247721,,,,590
+31,Toulouse,Magnifique T2 vue Zénith Cartoucherie avec parking,https://www.booking.com/hotel/fr/magnifique-t2-vue-zenith-cartoucherie-avec-parking.fr.html.html,43.59001688690597,1.4359098031483721,,,,591
+31,Toulouse,Le Pujol - T2 avec parking,https://www.booking.com/hotel/fr/le-pujol-t2-avec-parking.fr.html.html,43.610098789792126,1.4520425754450617,,,,592
+31,Toulouse,"Le Pastel - Daurade, Capitole à 200m, Clim Aircon, WiFi, Netflix - rénové en 2026 - renovated in 2026",https://www.booking.com/hotel/fr/le-pastel-daurade-capitole-air-conditioning-wifi-netflix.fr.html.html,43.59173900337596,1.458648195887568,,,,593
+31,Toulouse,Appartement confort centre-ville,https://www.booking.com/hotel/fr/appartement-confort-centre-ville-toulouse.fr.html.html,43.59829049133295,1.4554373395557338,,,,594
+31,Toulouse,Studio Center Compans Free Parking WIFI Metro Airport,https://www.booking.com/hotel/fr/t1bis-center-free-parking-wifi-metro.fr.html.html,43.62033533639624,1.4258280530139342,,,,595
+31,Toulouse,Studio au calme centre de Toulouse,https://www.booking.com/hotel/fr/studio-au-calme-centre-de-toulouse.fr.html.html,43.60342226561051,1.443463577890313,,,,596
+31,Toulouse,Le petit May - Coeur de Toulouse - Appart cosy et moderne,https://www.booking.com/hotel/fr/le-petit-toulousain-appartement-cosy-et-moderne.fr.html.html,43.61116610954084,1.428440507136727,,,,597
+31,Toulouse,Charming quiet studio Capitole,https://www.booking.com/hotel/fr/charming-quiet-studio-capitole.fr.html.html,43.591356594848065,1.433925100634501,,,,598
+31,Toulouse,Duplex Ô Minimes Toulouse - 4 pers - Parking-Métro,https://www.booking.com/hotel/fr/duplex-o-minimes-toulouse-4-pers-parking-metro.fr.html.html,43.59215536075234,1.4637098037306857,,,,599
+32,Montauban,""" La Belle Comédie "" Centre Ville - Véranda - Clim",https://www.booking.com/hotel/fr/appartement-de-kevin.fr.html.html,43.99921824465066,1.3406989217160605,,,,600
+32,Montauban,Charmant T3 Aristide - Wifi & Parking facile,https://www.booking.com/hotel/fr/charmant-t3-aristide-wifi-amp-parking-facile.fr.html.html,44.004340902522884,1.354954626138054,10.0,1.0,,601
+32,Montauban,"Petit coin de paradis, calme et confort garantie ! Chambre indépendante dans une dépendance !",https://www.booking.com/hotel/fr/un-air-de-campagne-montauban1.fr.html.html,44.00872711356128,1.3597253293727247,9.5,189.0,,602
+32,Montauban,Maisonnette avec terrasse,https://www.booking.com/hotel/fr/maisonnette-renovee-montauban.fr.html.html,44.00466391937107,1.363097698821764,10.0,1.0,,603
+32,Montauban,T3 Dupleix - Hypercentre - Calme - Idéal groupe,https://www.booking.com/hotel/fr/t3-dupleix-hypercentre-calme-ideal-groupe.fr.html.html,44.00113160135028,1.3573850473394764,,,,604
+32,Montauban,Appartement 60m2 au cœur de Montauban,https://www.booking.com/hotel/fr/appartement-60m2-au-coeur-de-montauban.fr.html.html,44.00240893484403,1.3353899338967672,9.0,2.0,,605
+32,Montauban,"Élégant T4 Montauban - proche gare, parking facile",https://www.booking.com/hotel/fr/elegant-t4-montauban-proche-gare-parking-facile.fr.html.html,44.01601465072131,1.3480575523297595,,,,606
+32,Montauban,Le Blin-Thomas - Montauban's Historic Heart,https://www.booking.com/hotel/fr/le-blin-thomas-montaubans-historic-heart.fr.html.html,44.00583684873623,1.3557075657353883,,,,607
+32,Montauban,La Loge d'Ingres - T3 Center & Montauban Hospital,https://www.booking.com/hotel/fr/la-loge-d-ingres-t3-center-amp-montauban-hospital.fr.html.html,44.01215429444192,1.3385137599657932,9.0,1.0,,608
+32,Montauban,"Logis Marybail, Elégant appartement avec terrasse dans immeuble Art Déco, près de la gare et du centre-ville à Montauban",https://www.booking.com/hotel/fr/logis-marybail-elegant-appartement-avec-terrasse-dans-immeuble-art-deco-pres-de.fr.html.html,44.0177201908342,1.349024177248367,,,,609
+32,Montauban,Cosy T2 Hyper-centre Montauban Place Nationale,https://www.booking.com/hotel/fr/cosy-t2-hyper-centre-montauban-place-nationale.fr.html.html,44.02519929314518,1.3363272243516546,7.5,2.0,,610
+32,Montauban,Bel appartement Montauban centre,https://www.booking.com/hotel/fr/bel-appartement-montauban-centre.fr.html.html,43.999155985593646,1.3381422398862006,10.0,1.0,,611
+32,Montauban,Bleu Poult - Duplex avec terrasse,https://www.booking.com/hotel/fr/bleu-poult-duplex-avec-terrasse.fr.html.html,44.02955991595636,1.3508760310480636,8.8,6.0,,612
+32,Montauban,Hotel Villenouvelle,https://www.booking.com/hotel/fr/villenouvelle.fr.html.html,44.02269951557964,1.3403077301617223,8.0,4.0,,613
+32,Montauban,Les Logis du Port Suites & Spa - Port Canal Montauban,https://www.booking.com/hotel/fr/les-logis-du-port-suites-amp-spa-port-canal-montauban.fr.html.html,44.00085386127795,1.3577007339304623,,,,614
+32,Montauban,"Les oiseaux, maison de 3 chambres et climatisation",https://www.booking.com/hotel/fr/les-oiseaux-maison-de-3-chambres-et-climatisation.fr.html.html,44.03252664496427,1.3625776987654905,10.0,2.0,,615
+32,Montauban,La Petite Escale Studio,https://www.booking.com/hotel/fr/la-petite-escale-studio.fr.html.html,44.03441839602127,1.3670225679643633,,,,616
+32,Montauban,Chez Jérome - Bright and cinematic atmosphere,https://www.booking.com/hotel/fr/chez-jerome-bright-and-cinematic-atmosphere.fr.html.html,44.000026618394195,1.3430051097697924,10.0,3.0,,617
+32,Montauban,Bali room Balneo Sauna terrasse 4personnes,https://www.booking.com/hotel/fr/bali-room-balneo-sauna-terrasse-4personnes.fr.html.html,44.00865860592589,1.3416984032903627,10.0,3.0,,618
+32,Montauban,Cozy appartement,https://www.booking.com/hotel/fr/cozy-appartement-montauban.fr.html.html,44.02983155119173,1.339181813613376,,,,619
+33,Biarritz,Petit Cocon sous les toits au centre de Biarritz,https://www.booking.com/hotel/fr/petit-cocon-sous-les-toits-au-centre-de-biarritz.fr.html.html,43.493182687615345,-1.5538203900182546,,,,620
+33,Biarritz,T2 Biarritz Beaurivage au 1er Etage,https://www.booking.com/hotel/fr/t2-biarritz-beaurivage-au-1er-etage.fr.html.html,43.470633140774254,-1.551018570940524,,,,621
+33,Biarritz,La casa de la côte des basques,https://www.booking.com/hotel/fr/la-casa-de-la-cote-des-basques.fr.html.html,43.47162627293346,-1.5780141542069743,,,,622
+33,Biarritz,Studio centre Biarritz - Halles et plage et surf,https://www.booking.com/hotel/fr/studio-centre-biarritz-halles-et-plage-et-surf.fr.html.html,43.47807118411165,-1.5418291101502524,,,,623
+33,Biarritz,"Beau & Grand T2, Balcon, Parking au calme",https://www.booking.com/hotel/fr/beau-amp-grand-t2-balcon-parking-au-calme.fr.html.html,43.48263321940764,-1.577198748653941,,,,624
+33,Biarritz,Cocon T2 Biarritz Beaurivage avec Extérieur,https://www.booking.com/hotel/fr/cocon-t2-biarritz-beaurivage-avec-exterieur.fr.html.html,43.48798249086121,-1.557625746587957,,,,625
+33,Biarritz,Biarritz La Milady- Résidence Lore Pean Appartement G,https://www.booking.com/hotel/fr/biarritz-la-milady-residence-lore-pean-appartement-g.fr.html.html,43.478008845582785,-1.5509151792219633,,,,626
+33,Biarritz,VIRGILE KEYWEEK Apt familial en plein centre de Biarritz,https://www.booking.com/hotel/fr/virgile-keyweek-family-apartment-in-the-heart-of-biarritz.fr.html.html,43.48175368864532,-1.5444388350501566,,,,627
+33,Biarritz,Dahlia - Appt 2 chambres et piscine,https://www.booking.com/hotel/fr/dahlia-appt-2-chambres-et-piscine.fr.html.html,43.493151137525345,-1.5507141227147028,,,,628
+33,Biarritz,Biarritz- Joffre - Proche plage - Côte des Basques,https://www.booking.com/hotel/fr/biarritz-joffre-proche-plage-cote-des-basques.fr.html.html,43.464719628115624,-1.5472084766772083,,,,629
+33,Biarritz,BLOOMY Villa Biarritz,https://www.booking.com/hotel/fr/bloomy-villa-biarritz.fr.html.html,43.473349777773755,-1.5656995922982877,,,,630
+33,Biarritz,COASTAL ESCAPE KEYWEEK Apt centre Biarritz avec balcon et parking privé,https://www.booking.com/hotel/fr/coastal-escape-keyweek-apt-in-central-biarritz-with-balcony-and-parking.fr.html.html,43.49178628343538,-1.5466845954501394,,,,631
+33,Biarritz,Le Hibou du lac Marion,https://www.booking.com/hotel/fr/le-hibou-du-lac-marion.fr.html.html,43.499060573507485,-1.5760730061446129,,,,632
+33,Biarritz,Studio Victoria - Welkeys,https://www.booking.com/hotel/fr/studio-victoria-welkeys-biarritz.fr.html.html,43.483719397684624,-1.543484933757579,,,,633
+33,Biarritz,MISVA KEYWEEK Apt d'architecte à Biarritz avec jardin,https://www.booking.com/hotel/fr/misva-keyweek-architect-designed-flat-in-biarritz-with-garden.fr.html.html,43.48453683941061,-1.5573739049538504,,,,634
+33,Biarritz,Appartement 2 chambres à 10 min de la Grande Plage,https://www.booking.com/hotel/fr/t3-calme-a-10-min-de-la-grande-plage.fr.html.html,43.467539180453585,-1.5465856892015002,,,,635
+33,Biarritz,Grazia - Vue mer piscine centre ville,https://www.booking.com/hotel/fr/grazia-vue-mer-piscine-centre-ville.fr.html.html,43.48114879467293,-1.561184868619268,,,,636
+33,Biarritz,Appartement cosy au Cœur de Biarritz,https://www.booking.com/hotel/fr/appartement-cosy-au-coeur-de-biarritz.fr.html.html,43.4845569906582,-1.553534492192139,,,,637
+33,Biarritz,Maison Resaurie - Hôtel,https://www.booking.com/hotel/fr/maison-resaurie.fr.html.html,43.47295112014539,-1.5582214935625553,10.0,1.0,,638
+33,Biarritz,Hotel De L'Océan,https://www.booking.com/hotel/fr/de-l-ocean.fr.html.html,43.47402202923797,-1.5500140191297866,8.0,573.0,,639
+34,Bayonne,Loft Charlie - Welkeys,https://www.booking.com/hotel/fr/loft-charlie-welkeys.fr.html.html,43.489605766524186,-1.4904005007187764,,,,640
+34,Bayonne,"Koko Etxea - Studio, Centre historique",https://www.booking.com/hotel/fr/koko-etxea-studio-centre-historique.fr.html.html,43.47531724791111,-1.4912516166403773,,,,641
+34,Bayonne,Résidence IBAIA - St Esprit Bayonne,https://www.booking.com/hotel/fr/residence-ibaia-st-esprit-bayonne.fr.html.html,43.48739756662333,-1.483781570639594,,,,642
+34,Bayonne,Appartement moderne - Terrasse et parking gratuit,https://www.booking.com/hotel/fr/appartement-moderne-terrasse-et-parking-gratuit.fr.html.html,43.48297232027986,-1.4872839127954725,,,,643
+34,Bayonne,Hotel Cote Basque,https://www.booking.com/hotel/fr/cote-basque.fr.html.html,43.487614294087116,-1.4587943573363118,8.0,461.0,,644
+34,Bayonne,Bayonne Appartement,https://www.booking.com/hotel/fr/bayonne-appartement.fr.html.html,43.47930488527277,-1.4848971405056781,,,,645
+34,Bayonne,"Appartement Bayonnais, au cœur de la verdure",https://www.booking.com/hotel/fr/appartement-bayonnais-au-coeur-de-la-verdure.fr.html.html,43.5101354912296,-1.4546310897672348,9.7,9.0,,646
+34,Bayonne,magnifique T4 centre bayonne,https://www.booking.com/hotel/fr/magnifique-t4-centre-bayonne.fr.html.html,43.49825809814216,-1.4801898683291557,1.0,1.0,,647
+34,Bayonne,"Patio Arena, appartement 2 étoiles, terrasse, parking, wifi, entrée et sortie autonomes, local vélos",https://www.booking.com/hotel/fr/le-patio-arena-classe-2-etoiles-terrasse-parking-wifi-local-velos.fr.html.html,43.50167849276578,-1.486380983372452,8.9,12.0,,648
+34,Bayonne,L'instant Bayonnais,https://www.booking.com/hotel/fr/instant-bayonnais-bayonne.fr.html.html,43.506081249544295,-1.4620777597143009,,,,649
+34,Bayonne,Chambre privée avec balcon et parking gratuit Anglet Bayonne,https://www.booking.com/hotel/fr/chambre-privee-avec-balcon-et-parking-gratuit-anglet-bayonne.fr.html.html,43.494452087957164,-1.4673173889799649,8.0,1.0,,650
+34,Bayonne,Cozy apartment - Halles,https://www.booking.com/hotel/fr/cozy-apartment-halles.fr.html.html,43.477991211523495,-1.4737378713418745,5.0,1.0,,651
+34,Bayonne,Chambre avec vue sur remparts,https://www.booking.com/hotel/fr/chambre-avec-vue-sur-remparts.fr.html.html,43.49599866167274,-1.4714511579624947,9.0,1.0,,652
+34,Bayonne,Le Port Neuf - Appartement en coeur de ville historique,https://www.booking.com/hotel/fr/le-port-neuf-bayonne.fr.html.html,43.497988044720834,-1.4648976288691093,9.0,6.0,,653
+34,Bayonne,Studio Xana vue Adour,https://www.booking.com/hotel/fr/studio-xana-vue-adour.fr.html.html,43.50433197896737,-1.4845275103467481,6.2,5.0,,654
+34,Bayonne,Bayonne Saint Esprit 2-room apartment,https://www.booking.com/hotel/fr/bayonne-saint-esprit-2-room-apartment.fr.html.html,43.49178078184919,-1.4538123433577304,8.2,8.0,,655
+34,Bayonne,Studio bambouti,https://www.booking.com/hotel/fr/studio-bambouti.fr.html.html,43.479617612111824,-1.4546739735141287,,,,656
+34,Bayonne,"Péniche UHARTEA chambre d'hôtes ""Baionako Gambara""",https://www.booking.com/hotel/fr/peniche-uhartea-baionako-ganbara.fr.html.html,43.48586543623195,-1.4676526725461225,9.7,15.0,,657
+34,Bayonne,Charmant T3 - Arènes de Bayonne,https://www.booking.com/hotel/fr/charmant-t3-arenes-de-bayonne.fr.html.html,43.48903769185595,-1.4856840019628341,8.9,15.0,,658
+34,Bayonne,Studio Bayonne proche gare et centre-ville,https://www.booking.com/hotel/fr/bayonne-studio-near-train-station-and-city-center.fr.html.html,43.500351089653265,-1.4664565703027483,6.4,5.0,,659
+35,La Rochelle,La Mariennée,https://www.booking.com/hotel/fr/la-mariennee.fr.html.html,46.162563132186754,-1.168707163640833,7.5,35.0,,660
+35,La Rochelle,Appartement aux Minimes,https://www.booking.com/hotel/fr/appartement-aux-minimes-la-rochelle.fr.html.html,46.15397586903591,-1.1703689999117677,9.6,39.0,,661
+35,La Rochelle,Appt 2 pièces LA ROCHELLE - LR010-215,https://www.booking.com/hotel/fr/appt-2-pieces-la-rochelle-lr010-215.fr.html.html,46.17919260995172,-1.1612877844595515,10.0,1.0,,662
+35,La Rochelle,Love Room La Cachette,https://www.booking.com/hotel/fr/love-room-la-cachette.fr.html.html,46.16396299277427,-1.1530901817304273,,,,663
+35,La Rochelle,"Valin 1, centre ville, face au port",https://www.booking.com/hotel/fr/valin-1-centre-ville-face-au-port.fr.html.html,46.14922107166944,-1.1368641997836648,,,,664
+35,La Rochelle,"ღ La Crique - Piscine, Parking, Cosy",https://www.booking.com/hotel/fr/la-crique-piscine-parking-cosy.fr.html.html,46.143803298904814,-1.1425083372093476,,,,665
+35,La Rochelle,Le Flamant Rose Cosy au cœur de la ville,https://www.booking.com/hotel/fr/le-flamant-rose-cosy-au-coeur-de-la-ville.fr.html.html,46.14584636556737,-1.1418868391520007,,,,666
+35,La Rochelle,La Villa du Parc,https://www.booking.com/hotel/fr/la-villa-du-parc-la-rochelle.fr.html.html,46.14957030913538,-1.154575366622077,,,,667
+35,La Rochelle,"Maison rénovée 2022, Patio et garage Centre LR !",https://www.booking.com/hotel/fr/maison-renovee-2022-patio-et-garage-centre-lr.fr.html.html,46.14615925493038,-1.1577577002981214,,,,668
+35,La Rochelle,Maison Magnolia Jardin & terrasse proche centre,https://www.booking.com/hotel/fr/maison-magnolia-jardin-amp-terrasse-proche-centre.fr.html.html,46.14719468096205,-1.1567535494806158,,,,669
+35,La Rochelle,Maison spacieuse et calme à La Rochelle,https://www.booking.com/hotel/fr/spacious-quiet-house-in-la-rochelle-for-6.fr.html.html,46.15113580674775,-1.1320891174505576,,,,670
+35,La Rochelle,"Le Cordouan, hypercentre, LR113",https://www.booking.com/hotel/fr/le-cordouan-hypercentre-lr113.fr.html.html,46.14666694381179,-1.1699907323435006,,,,671
+35,La Rochelle,Le Duplex de Merciers Coeur de ville,https://www.booking.com/hotel/fr/le-duplex-de-merciers-coeur-de-ville.fr.html.html,46.17560261698505,-1.136913840155102,,,,672
+35,La Rochelle,Le Grand Merciers T3,https://www.booking.com/hotel/fr/le-grand-merciers-t3.fr.html.html,46.142941349826465,-1.1484480836571043,,,,673
+35,La Rochelle,Le petit Rochelais proche marché central et gare SNCF,https://www.booking.com/hotel/fr/le-petit-rochelais-la-rochelle.fr.html.html,46.16071245558281,-1.1540504832324163,,,,674
+35,La Rochelle,"ღ Repos Urbain - T4 Spacieux, Lumineux et Parking",https://www.booking.com/hotel/fr/repos-urbain-t4-spacieux-lumineux-et-parking.fr.html.html,46.15614787307958,-1.1425847935833946,,,,675
+35,La Rochelle,Appartement avec terrasse et piscine à La Rochelle,https://www.booking.com/hotel/fr/apartment-with-terrace-and-pool-in-la-rochelle.fr.html.html,46.17902714467634,-1.152128342343012,,,,676
+35,La Rochelle,Charming new studio,https://www.booking.com/hotel/fr/charming-new-studio.fr.html.html,46.14421355608672,-1.1366581704767336,,,,677
+35,La Rochelle,Chambre de charme calme au coeur de la ville,https://www.booking.com/hotel/fr/chambre-de-charme-calme-au-coeur-de-la-ville.fr.html.html,46.15564622396183,-1.1355670254395496,,,,678
+35,La Rochelle,"Camille, quiet, historic center of La Rochelle",https://www.booking.com/hotel/fr/camille-quiet-historic-center-of-la-rochelle.fr.html.html,46.178510817331016,-1.1547262629250619,,,,679

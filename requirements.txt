@@ -1,0 +1,29 @@
+# Plan your trip with Kayak — Bloc 1 (Data Engineering / ETL)
+# Dépendances Python pour rejouer les notebooks et scripts.
+# Installation : pip install -r requirements.txt
+
+# Manipulation et analyse de données
+pandas
+numpy
+
+# Appels API + scraping web
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+
+# Visualisation (cartes interactives Top-5 destinations + Top-20 hôtels)
+plotly
+
+# AWS — data lake S3
+boto3
+
+# AWS — data warehouse RDS PostgreSQL
+sqlalchemy
+psycopg2-binary
+
+# Variables d'environnement
+python-dotenv
+
+# Barre de progression (boucles longues : météo + scraping)
+tqdm
